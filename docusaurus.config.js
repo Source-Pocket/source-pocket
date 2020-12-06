@@ -36,12 +36,12 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Style Guide",
+              label: "Front-End Pocket",
               to: "docs/",
             },
             {
-              label: "Second Doc",
-              to: "docs/front-end/",
+              label: "Style Guide",
+              to: "docs/doc1",
             },
           ],
         },
@@ -67,7 +67,12 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/sdtrdev/source-pocket",
+            },
+            {
+              label:
+                "Made with 💜 by the members of Software Development Turkey",
+              href: "https://discord.gg/J3PTmeFj6s",
             },
           ],
         },
@@ -82,7 +87,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/sdtr/source-pocket",
+          editUrl: "https://github.com/sdtrdev/source-pocket",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
