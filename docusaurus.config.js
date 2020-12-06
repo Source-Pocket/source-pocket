@@ -1,8 +1,8 @@
 module.exports = {
   title: "Source Pocket",
   tagline: "Your source pocket for development",
-  url: "https://strdev.github.io",
-  baseUrl: "/source-pocket/",
+  url: "https://sourcepocket.netlify.com", // Url to your site with no trailing slash
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -65,10 +65,6 @@ module.exports = {
         {
           title: "More",
           items: [
-            {
-              label: "Blog",
-              to: "blog",
-            },
             {
               label: "GitHub",
               href: "https://github.com/facebook/docusaurus",
