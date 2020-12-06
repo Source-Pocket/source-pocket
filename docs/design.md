@@ -2,10 +2,10 @@
 id: design
 title: Design Pocket
 sidebar_label: Design Pocket
-slug: /
+slug: /design
 ---
 
-# 🔗 Linkler
+## Websites
 - [Behance](https://behance.net)
 - [Unsplash](https://unsplash.com)
 - [Freepik](https://freepik.com)
@@ -16,7 +16,7 @@ slug: /
 - [Manifold](https://manifold.press)
 - [GMK](http://gmk.org.tr/publications)
 
-# 🎥 YouTube Kanalları
+## YouTube
 - [Designus](https://www.youtube.com/user/designusnet)
 
 - [Afgan Rasulov](https://www.youtube.com/user/afganrasulov)
@@ -51,7 +51,7 @@ slug: /
 
 - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw)
 
-# 📚 Kitaplar
+## Books
 
 - Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
 - Tipografinin Temelleri Orjinal İsim: The Fundamentals of Typography - Paul Harris, Gavin Ambrose
