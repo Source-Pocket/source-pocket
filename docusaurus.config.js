@@ -36,12 +36,12 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Style Guide",
+              label: "Front-End Pocket",
               to: "docs/",
             },
             {
-              label: "Second Doc",
-              to: "docs/front-end/",
+              label: "Style Guide",
+              to: "docs/doc1",
             },
           ],
         },
@@ -49,16 +49,16 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Medium",
+              href: "https://medium.com/software-development-turkey",
             },
             {
               label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              href: "https://discord.gg/J3PTmeFj6s",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/sdtrdev",
             },
           ],
         },
@@ -67,12 +67,17 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/sdtrdev/source-pocket",
+            },
+            {
+              label:
+                "Made with 💜 by the members of Software Development Turkey",
+              href: "https://discord.gg/J3PTmeFj6s",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SourcePocket, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -82,7 +87,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/sdtr/source-pocket",
+          editUrl: "https://github.com/sdtrdev/source-pocket",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
