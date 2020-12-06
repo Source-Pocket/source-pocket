@@ -1,8 +1,8 @@
 module.exports = {
   title: "Source Pocket",
   tagline: "Your source pocket for development",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://strdev.github.io",
+  baseUrl: "/source-pocket/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -22,9 +22,8 @@ module.exports = {
           label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/sdtrdev/source-pocket",
           label: "GitHub",
           position: "right",
         },
@@ -42,7 +41,7 @@ module.exports = {
             },
             {
               label: "Second Doc",
-              to: "docs/doc2/",
+              to: "docs/front-end/",
             },
           ],
         },
@@ -87,14 +86,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+          editUrl: "https://github.com/sdtr/source-pocket",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
