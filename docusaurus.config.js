@@ -1,13 +1,13 @@
 module.exports = {
   title: "Source Pocket",
   tagline: "Your source pocket for development",
-  url: "https://sourcepocket.netlify.com", // Url to your site with no trailing slash
+  url: "https://sourcepocket.netlify.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "sdtrdev", // Usually your GitHub org/user name.
-  projectName: "source-pocket", // Usually your repo name.
+  organizationName: "sdtrdev",
+  projectName: "source-pocket",
   themeConfig: {
     navbar: {
       title: "Source Pocket",
