@@ -37,11 +37,15 @@ module.exports = {
           items: [
             {
               label: "Front-End Pocket",
-              to: "docs/",
+              to: "docs/front-end",
             },
             {
               label: "Style Guide",
-              to: "docs/doc1",
+              to: "/",
+            },
+            {
+              label: "Style Guide",
+              to: "/design",
             },
           ],
         },
