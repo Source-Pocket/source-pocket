@@ -1,5 +1,7 @@
 # Source Pocket
 
-- Source pocket for beginners!
+Source pocket for passionate developers!
 
-Website: https://sourcepocket.netlify.app
+`Stil in progress, save your PRs!`
+
+[Semantic Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) are important for everyone 🖊
