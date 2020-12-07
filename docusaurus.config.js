@@ -42,6 +42,10 @@ module.exports = {
               label: "Programming Languages Pocket",
               to: "docs/programming-languages/assembly",
             },
+            {
+              label: "Web Development Pocket",
+              to: "docs/web-development/hosting-and-servers",
+            },
           ],
         },
         {
