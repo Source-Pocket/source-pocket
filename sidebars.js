@@ -1,8 +1,7 @@
 module.exports = {
-  docs: {
-    Contribute: ["style-guide"],
-    "Not Categorized": ["front-end", "design"],
-    "Programming Languages Pocket": [
+  "Source Pocket": {
+    "💻 Contribute": ["style-guide"],
+    "📚 Programming Languages Pocket": [
       "assembly",
       "c",
       "cplusplus",
@@ -19,5 +18,6 @@ module.exports = {
       "rust",
       "swift",
     ],
+    "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };

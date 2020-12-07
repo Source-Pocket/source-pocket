@@ -35,16 +35,12 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Front-End Pocket",
-              to: "docs/front-end",
+              label: "Contribute",
+              to: "docs/",
             },
             {
-              label: "Style Guide",
-              to: "/",
-            },
-            {
-              label: "Style Guide",
-              to: "/design",
+              label: "Programming Languages Pocket",
+              to: "docs/programming-languages/assembly",
             },
           ],
         },
