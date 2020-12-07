@@ -1,5 +1,5 @@
 # Source Pocket
 
-- Source pocket for beginners!
+Source pocket for passionate developers!
 
-Website: https://sourcepocket.netlify.app
+`Stil in progress, save your PRs!`
