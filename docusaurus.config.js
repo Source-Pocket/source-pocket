@@ -10,7 +10,6 @@ module.exports = {
   projectName: "source-pocket",
   themeConfig: {
     navbar: {
-      title: "Source Pocket",
       logo: {
         alt: "Source Pocket Logo",
         src: "img/logo.svg",
@@ -19,7 +18,7 @@ module.exports = {
         {
           to: "docs/",
           activeBasePath: "docs",
-          label: "Docs",
+          label: "Source Pocket",
           position: "left",
         },
         {
@@ -36,12 +35,16 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Front-End Pocket",
+              label: "Contribute",
               to: "docs/",
             },
             {
-              label: "Style Guide",
-              to: "docs/doc1",
+              label: "Programming Languages Pocket",
+              to: "docs/programming-languages/assembly",
+            },
+            {
+              label: "Web Development Pocket",
+              to: "docs/web-development/hosting-and-servers",
             },
           ],
         },

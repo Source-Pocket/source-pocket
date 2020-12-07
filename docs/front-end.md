@@ -2,7 +2,7 @@
 id: front-end
 title: Front-End Pocket
 sidebar_label: Front-End Pocket
-slug: /
+slug: /front-end
 ---
 
 ## Websites
