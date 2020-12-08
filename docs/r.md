@@ -5,4 +5,4 @@ sidebar_label: R
 slug: /programming-languages/r
 ---
 
-## Python
+## R
