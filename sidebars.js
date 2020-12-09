@@ -40,6 +40,15 @@ module.exports = {
       "typescript",
       "vuejs",
     ],
+    "🛠 Development Tools Pocket": [
+      "azure",
+      "aws",
+      "android-studio",
+      "docker",
+      "git",
+      "visualstudio",
+      "visual-studio-code",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };
