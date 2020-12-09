@@ -46,6 +46,10 @@ module.exports = {
               label: "Web Development Pocket",
               to: "docs/web-development/hosting-and-servers",
             },
+            {
+              label: "Development Tools Pocket",
+              to: "docs/development-tools/azure",
+            },
           ],
         },
         {
