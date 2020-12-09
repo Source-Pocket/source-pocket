@@ -9,6 +9,7 @@ Source pocket for passionate developers!
 Code Owners 
 ------------ 
 
-[@damla](https://github.com/damla) 
-[@omerayyildiz](https://github.com/omerayyildiz) 
-[@TheYkk](https://github.com/TheYkk)
+- [@damla](https://github.com/damla) 
+- [@omerayyildiz](https://github.com/omerayyildiz) 
+- [@TheYkk](https://github.com/TheYkk)
+- [@ilter](https://github.com/ilter)
