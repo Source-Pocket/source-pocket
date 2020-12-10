@@ -50,6 +50,13 @@ module.exports = {
       "visual-studio-code",
     ],
     "🤔 Operating Systems Pocket": ["macos", "windows", "gnu-linux"],
+    "🛠 Mobile Development Pocket": [
+      "android",
+      "flutter",
+      "ios",
+      "reactnative",
+      "xamarin",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };
