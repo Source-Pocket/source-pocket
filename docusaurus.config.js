@@ -50,6 +50,10 @@ module.exports = {
               label: "Development Tools Pocket",
               to: "docs/development-tools/azure",
             },
+            {
+              label: "Operating Systems Pocket",
+              to: "docs/operating-systems/macos",
+            },
           ],
         },
         {
