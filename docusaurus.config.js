@@ -54,6 +54,10 @@ module.exports = {
               label: "Operating Systems Pocket",
               to: "docs/operating-systems/macos",
             },
+            {
+              label: "Mobile Development Pocket",
+              to: "docs/mobile-development/android",
+            },
           ],
         },
         {
