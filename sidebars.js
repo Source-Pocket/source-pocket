@@ -49,6 +49,7 @@ module.exports = {
       "visualstudio",
       "visual-studio-code",
     ],
+    "🤔 Operating Systems Pocket": ["macos", "windows", "gnu-linux"],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };
