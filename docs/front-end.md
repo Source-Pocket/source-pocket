@@ -93,6 +93,8 @@ slug: /front-end
 
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q "Dev Ed") - HTML, CSS, JavaScript, JavaScript Frameworks
 
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Web Development, Programming
+
 ## Newsletter
 
 - [Frontend Focus](https://frontendfoc.us/ "Frontend Focus") - HTML, CSS, JavaScript, JavaScript Frameworks, General Web Development News
