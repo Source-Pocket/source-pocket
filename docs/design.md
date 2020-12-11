@@ -6,6 +6,7 @@ slug: /design
 ---
 
 ## Websites
+
 - [Behance](https://behance.net)
 - [Unsplash](https://unsplash.com)
 - [Freepik](https://freepik.com)
@@ -17,6 +18,7 @@ slug: /design
 - [GMK](http://gmk.org.tr/publications)
 
 ## YouTube
+
 - [Designus](https://www.youtube.com/user/designusnet)
 
 - [Afgan Rasulov](https://www.youtube.com/user/afganrasulov)
@@ -67,4 +69,3 @@ slug: /design
 - Dünya Sanat Tarihi - Adnan Turani
 - Sanat ve Kuram - Paul Wood, Charles Harrison
 - Çağdaş Sanat Felsefesi - Adnan Turani
-
