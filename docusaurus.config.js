@@ -58,6 +58,10 @@ module.exports = {
               label: "Mobile Development Pocket",
               to: "docs/mobile-development/android",
             },
+            {
+              label: "Graphic Design Pocket",
+              to: "docs/graphic-design/general-design",
+            },
           ],
         },
         {

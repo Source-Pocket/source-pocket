@@ -61,6 +61,16 @@ module.exports = {
       "mobile-development/reactnative",
       "mobile-development/xamarin",
     ],
+    "🎨 Graphic Design Pocket": [
+      "graphic-design/general-design",
+      "graphic-design/ui-ux-design",
+      "graphic-design/illustrations",
+      "graphic-design/motion-design",
+      "graphic-design/sound-design",
+      "graphic-design/misc-design",
+      "graphic-design/photo-and-video",
+      "graphic-design/other",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };
