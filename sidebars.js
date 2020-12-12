@@ -98,6 +98,11 @@ module.exports = {
       "artificial-intelligence/resources",
       "artificial-intelligence/other",
     ],
+    "👾 Game Development Pocket": [
+      "game-development/unreal-engine",
+      "game-development/unity",
+      "game-development/other",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };

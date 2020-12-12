@@ -78,6 +78,10 @@ module.exports = {
               label: "Artificial Intelligence Pocket",
               to: "docs/artificial-intelligence/artificial-intelligence",
             },
+            {
+              label: "Game Development Pocket",
+              to: "docs/game-development/unreal-engine",
+            },
           ],
         },
         {
