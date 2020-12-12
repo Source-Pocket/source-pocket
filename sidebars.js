@@ -85,6 +85,11 @@ module.exports = {
       "databases/sql-tsql-plsql",
       "databases/other",
     ],
+    "📦 Data Science Pocket": [
+      "data-science/big-data",
+      "data-science/statistical-learning",
+      "data-science/other",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };

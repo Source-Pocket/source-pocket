@@ -69,7 +69,11 @@ module.exports = {
             {
               label: "Databases Pocket",
               to: "docs/databases/mssql",
-            }
+            },
+            {
+              label: "Data Science Pocket",
+              to: "docs/data-science/big-data",
+            },
           ],
         },
         {
