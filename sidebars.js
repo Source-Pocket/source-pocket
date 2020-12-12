@@ -77,6 +77,14 @@ module.exports = {
       "embedded-systems/raspberry-pi",
       "embedded-systems/other",
     ],
+    "📦 Databases Pocket": [
+      "databases/mssql",
+      "databases/mysql",
+      "databases/mongodb",
+      "databases/postgresdb",
+      "databases/sql-tsql-plsql",
+      "databases/other",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };

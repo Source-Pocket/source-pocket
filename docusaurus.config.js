@@ -66,6 +66,10 @@ module.exports = {
               label: "Embedded Systems Pocket",
               to: "docs/embedded-systems/arm",
             },
+            {
+              label: "Databases Pocket",
+              to: "docs/databases/mssql",
+            }
           ],
         },
         {
