@@ -69,13 +69,11 @@ module.exports = {
       "graphic-design/sound-design",
       "graphic-design/misc-design",
       "graphic-design/photo-and-video",
-      "graphic-design/other",
     ],
     "⚡️ Embedded Systems Pocket": [
       "embedded-systems/arm",
       "embedded-systems/arduino",
       "embedded-systems/raspberry-pi",
-      "embedded-systems/other",
     ],
     "📦 Databases Pocket": [
       "databases/mssql",
@@ -83,12 +81,10 @@ module.exports = {
       "databases/mongodb",
       "databases/postgresdb",
       "databases/sql-tsql-plsql",
-      "databases/other",
     ],
     "📦 Data Science Pocket": [
       "data-science/big-data",
       "data-science/statistical-learning",
-      "data-science/other",
     ],
     "🤖 Artificial Intelligence Pocket": [
       "artificial-intelligence/artificial-intelligence",
@@ -96,12 +92,10 @@ module.exports = {
       "artificial-intelligence/deep-learning",
       "artificial-intelligence/machine-learning",
       "artificial-intelligence/resources",
-      "artificial-intelligence/other",
     ],
     "👾 Game Development Pocket": [
       "game-development/unreal-engine",
       "game-development/unity",
-      "game-development/other",
     ],
     "🌍 Network Programming Pocket": [
       "network-programming/ipv4-ipv6",
