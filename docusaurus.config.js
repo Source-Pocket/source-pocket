@@ -62,6 +62,10 @@ module.exports = {
               label: "Graphic Design Pocket",
               to: "docs/graphic-design/general-design",
             },
+            {
+              label: "Embedded Systems Pocket",
+              to: "docs/embedded-systems/arm",
+            },
           ],
         },
         {

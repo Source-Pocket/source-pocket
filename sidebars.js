@@ -71,6 +71,12 @@ module.exports = {
       "graphic-design/photo-and-video",
       "graphic-design/other",
     ],
+    "⚡️ Embedded Systems Pocket": [
+      "embedded-systems/arm",
+      "embedded-systems/arduino",
+      "embedded-systems/raspberry-pi",
+      "embedded-systems/other",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };
