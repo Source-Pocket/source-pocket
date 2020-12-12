@@ -103,6 +103,11 @@ module.exports = {
       "game-development/unity",
       "game-development/other",
     ],
+    "🌍 Network Programming Pocket": [
+      "network-programming/ipv4-ipv6",
+      "network-programming/network",
+      "network-programming/tcpip",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };

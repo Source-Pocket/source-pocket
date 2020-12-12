@@ -82,6 +82,10 @@ module.exports = {
               label: "Game Development Pocket",
               to: "docs/game-development/unreal-engine",
             },
+            {
+              label: "Network Programming Pocket",
+              to: "docs/network-programming/ipv4-ipv6",
+            },
           ],
         },
         {
