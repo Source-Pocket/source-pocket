@@ -58,6 +58,34 @@ module.exports = {
               label: "Mobile Development Pocket",
               to: "docs/mobile-development/android",
             },
+            {
+              label: "Graphic Design Pocket",
+              to: "docs/graphic-design/general-design",
+            },
+            {
+              label: "Embedded Systems Pocket",
+              to: "docs/embedded-systems/arm",
+            },
+            {
+              label: "Databases Pocket",
+              to: "docs/databases/mssql",
+            },
+            {
+              label: "Data Science Pocket",
+              to: "docs/data-science/big-data",
+            },
+            {
+              label: "Artificial Intelligence Pocket",
+              to: "docs/artificial-intelligence/artificial-intelligence",
+            },
+            {
+              label: "Game Development Pocket",
+              to: "docs/game-development/unreal-engine",
+            },
+            {
+              label: "Network Programming Pocket",
+              to: "docs/network-programming/ipv4-ipv6",
+            },
           ],
         },
         {

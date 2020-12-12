@@ -61,6 +61,47 @@ module.exports = {
       "mobile-development/reactnative",
       "mobile-development/xamarin",
     ],
+    "🎨 Graphic Design Pocket": [
+      "graphic-design/general-design",
+      "graphic-design/ui-ux-design",
+      "graphic-design/illustrations",
+      "graphic-design/motion-design",
+      "graphic-design/sound-design",
+      "graphic-design/misc-design",
+      "graphic-design/photo-and-video",
+    ],
+    "⚡️ Embedded Systems Pocket": [
+      "embedded-systems/arm",
+      "embedded-systems/arduino",
+      "embedded-systems/raspberry-pi",
+    ],
+    "📦 Databases Pocket": [
+      "databases/mssql",
+      "databases/mysql",
+      "databases/mongodb",
+      "databases/postgresdb",
+      "databases/sql-tsql-plsql",
+    ],
+    "📦 Data Science Pocket": [
+      "data-science/big-data",
+      "data-science/statistical-learning",
+    ],
+    "🤖 Artificial Intelligence Pocket": [
+      "artificial-intelligence/artificial-intelligence",
+      "artificial-intelligence/computer-vision",
+      "artificial-intelligence/deep-learning",
+      "artificial-intelligence/machine-learning",
+      "artificial-intelligence/resources",
+    ],
+    "👾 Game Development Pocket": [
+      "game-development/unreal-engine",
+      "game-development/unity",
+    ],
+    "🌍 Network Programming Pocket": [
+      "network-programming/ipv4-ipv6",
+      "network-programming/network",
+      "network-programming/tcpip",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };
