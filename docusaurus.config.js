@@ -74,6 +74,10 @@ module.exports = {
               label: "Data Science Pocket",
               to: "docs/data-science/big-data",
             },
+            {
+              label: "Artificial Intelligence Pocket",
+              to: "docs/artificial-intelligence/artificial-intelligence",
+            },
           ],
         },
         {

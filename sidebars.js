@@ -90,6 +90,14 @@ module.exports = {
       "data-science/statistical-learning",
       "data-science/other",
     ],
+    "🤖 Artificial Intelligence Pocket": [
+      "artificial-intelligence/artificial-intelligence",
+      "artificial-intelligence/computer-vision",
+      "artificial-intelligence/deep-learning",
+      "artificial-intelligence/machine-learning",
+      "artificial-intelligence/resources",
+      "artificial-intelligence/other",
+    ],
     "😥 Not Categorized Yet": ["front-end", "design"],
   },
 };
