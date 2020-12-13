@@ -4,4 +4,8 @@ title: Swift
 sidebar_label: Swift
 ---
 
-## Swift
+## Beginner
+
+## Intermediate
+
+## Advanced

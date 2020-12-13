@@ -4,4 +4,8 @@ title: Java
 sidebar_label: Java
 ---
 
-## Java
+## Beginner
+
+## Intermediate
+
+## Advanced

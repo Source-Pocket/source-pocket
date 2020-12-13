@@ -4,4 +4,8 @@ title: Python
 sidebar_label: Python
 ---
 
-## Python
+## Beginner
+
+## Intermediate
+
+## Advanced

@@ -4,4 +4,8 @@ title: Artificial Intelligence
 sidebar_label: Artificial Intelligence
 ---
 
-## Artificial Intelligence
+## Beginner
+
+## Intermediate
+
+## Advanced

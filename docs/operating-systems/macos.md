@@ -4,4 +4,8 @@ title: MacOS
 sidebar_label: MacOS
 ---
 
-## MacOS
+## Beginner
+
+## Intermediate
+
+## Advanced

@@ -4,4 +4,8 @@ title: Azure
 sidebar_label: Azure
 ---
 
-## Azure
+## Beginner
+
+## Intermediate
+
+## Advanced

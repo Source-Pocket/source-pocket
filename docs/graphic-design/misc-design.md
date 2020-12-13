@@ -4,4 +4,8 @@ title: Misc Design
 sidebar_label: Misc Design
 ---
 
-## Misc Design
+## Beginner
+
+## Intermediate
+
+## Advanced

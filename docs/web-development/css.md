@@ -4,4 +4,8 @@ title: CSS
 sidebar_label: CSS
 ---
 
-## CSS
+## Beginner
+
+## Intermediate
+
+## Advanced

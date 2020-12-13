@@ -4,4 +4,8 @@ title: Deep Learning
 sidebar_label: Deep Learning
 ---
 
-## Deep Learning
+## Beginner
+
+## Intermediate
+
+## Advanced

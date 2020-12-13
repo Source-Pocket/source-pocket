@@ -4,4 +4,8 @@ title: General Design
 sidebar_label: General Design
 ---
 
-## General Design
+## Beginner
+
+## Intermediate
+
+## Advanced

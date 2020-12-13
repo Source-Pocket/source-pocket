@@ -3,4 +3,8 @@ id: typescript
 title: Typescript
 ---
 
-## Typescript
+## Beginner
+
+## Intermediate
+
+## Advanced

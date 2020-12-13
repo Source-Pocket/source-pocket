@@ -4,4 +4,8 @@ title: Rust
 sidebar_label: Rust
 ---
 
-## Rust
+## Beginner
+
+## Intermediate
+
+## Advanced

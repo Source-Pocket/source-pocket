@@ -4,4 +4,8 @@ title: Visual Studio
 sidebar_label: Visual Studio
 ---
 
-## Visual Studio
+## Beginner
+
+## Intermediate
+
+## Advanced

@@ -4,4 +4,8 @@ title: Go
 sidebar_label: Go
 ---
 
-## Go
+## Beginner
+
+## Intermediate
+
+## Advanced

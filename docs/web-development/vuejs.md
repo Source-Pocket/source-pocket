@@ -4,4 +4,8 @@ title: Vue JS
 sidebar_label: Vue JS
 ---
 
-## Vue JS
+## Beginner
+
+## Intermediate
+
+## Advanced

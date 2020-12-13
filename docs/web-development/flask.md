@@ -4,4 +4,8 @@ title: Flask
 sidebar_label: Flask
 ---
 
-## Flask
+## Beginner
+
+## Intermediate
+
+## Advanced

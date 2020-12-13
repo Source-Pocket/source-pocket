@@ -4,4 +4,8 @@ title: Ruby
 sidebar_label: Ruby
 ---
 
-## Ruby
+## Beginner
+
+## Intermediate
+
+## Advanced

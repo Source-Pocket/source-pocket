@@ -4,4 +4,8 @@ title: Statistical Learning
 sidebar_label: Statistical Learning
 ---
 
-## Statistical Learning
+## Beginner
+
+## Intermediate
+
+## Advanced

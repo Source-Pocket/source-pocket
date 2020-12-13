@@ -4,4 +4,8 @@ title: Photo and Video
 sidebar_label: Photo and Video
 ---
 
-## Photo and Video
+## Beginner
+
+## Intermediate
+
+## Advanced
