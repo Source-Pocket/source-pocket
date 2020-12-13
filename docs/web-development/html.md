@@ -4,4 +4,8 @@ title: HTML
 sidebar_label: HTML
 ---
 
-## HTML
+## Beginner
+
+## Intermediate
+
+## Advanced

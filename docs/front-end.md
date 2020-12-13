@@ -35,7 +35,7 @@ slug: /front-end
 
 - [Jared Nielsen](https://jarednielsen.com/blog/ "Jared Nielsen") - JavaScript
 
-- [Polypane Blog](https://polypane.app/blog/ "Polypane Blog") - HTML, CSS,  General Web Development
+- [Polypane Blog](https://polypane.app/blog/ "Polypane Blog") - HTML, CSS, General Web Development
 
 - [Ugly Duck](https://uglyduck.ca/articles/ "Ugly Duck") - HTML, CSS, JavaScript, Software Development
 
@@ -92,8 +92,6 @@ slug: /front-end
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb "TraversyMedia") - Web Development, Programming
 
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q "Dev Ed") - HTML, CSS, JavaScript, JavaScript Frameworks
-
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Web Development, Programming
 
 ## Newsletter
 

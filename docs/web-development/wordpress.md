@@ -4,4 +4,8 @@ title: Wordpress
 sidebar_label: Wordpress
 ---
 
-## Wordpress
+## Beginner
+
+## Intermediate
+
+## Advanced

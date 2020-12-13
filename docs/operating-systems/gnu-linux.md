@@ -4,4 +4,8 @@ title: GNU / Linux
 sidebar_label: GNU / Linux
 ---
 
-## GNU / Linux
+## Beginner
+
+## Intermediate
+
+## Advanced

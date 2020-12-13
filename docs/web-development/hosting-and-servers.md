@@ -4,4 +4,8 @@ title: Hosting & Servers
 sidebar_label: Hosting & Servers
 ---
 
-## Hosting & Servers
+## Beginner
+
+## Intermediate
+
+## Advanced

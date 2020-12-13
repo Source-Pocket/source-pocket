@@ -4,4 +4,8 @@ title: Network
 sidebar_label: Network
 ---
 
-## Network
+## Beginner
+
+## Intermediate
+
+## Advanced

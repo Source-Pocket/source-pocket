@@ -4,4 +4,8 @@ title: MySQL
 sidebar_label: MySQL
 ---
 
-## MySQL
+## Beginner
+
+## Intermediate
+
+## Advanced

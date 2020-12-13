@@ -4,4 +4,8 @@ title: Laravel
 sidebar_label: Laravel
 ---
 
-## Laravel
+## Beginner
+
+## Intermediate
+
+## Advanced

@@ -4,4 +4,8 @@ title: Resources
 sidebar_label: Resources
 ---
 
-## Resources
+## Beginner
+
+## Intermediate
+
+## Advanced

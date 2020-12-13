@@ -4,4 +4,8 @@ title: Computer Vision
 sidebar_label: Computer Vision
 ---
 
-## Computer Vision
+## Beginner
+
+## Intermediate
+
+## Advanced

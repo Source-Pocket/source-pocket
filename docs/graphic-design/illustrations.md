@@ -4,4 +4,8 @@ title: Illustrations
 sidebar_label: Illustrations
 ---
 
-## Illustrations
+## Beginner
+
+## Intermediate
+
+## Advanced

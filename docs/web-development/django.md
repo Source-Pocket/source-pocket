@@ -4,4 +4,8 @@ title: Django
 sidebar_label: Django
 ---
 
-## Django
+## Beginner
+
+## Intermediate
+
+## Advanced

@@ -4,4 +4,8 @@ title: R
 sidebar_label: R
 ---
 
-## R
+## Beginner
+
+## Intermediate
+
+## Advanced

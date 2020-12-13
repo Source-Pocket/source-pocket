@@ -4,4 +4,8 @@ title: JQuery
 sidebar_label: JQuery
 ---
 
-## JQuery
+## Beginner
+
+## Intermediate
+
+## Advanced

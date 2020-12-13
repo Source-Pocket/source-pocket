@@ -4,4 +4,8 @@ title: Visual Studio Code
 sidebar_label: Visual Studio Code
 ---
 
-## Visual Studio Code
+## Beginner
+
+## Intermediate
+
+## Advanced

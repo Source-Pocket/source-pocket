@@ -4,4 +4,8 @@ title: Windows
 sidebar_label: Windows
 ---
 
-## Windows
+## Beginner
+
+## Intermediate
+
+## Advanced

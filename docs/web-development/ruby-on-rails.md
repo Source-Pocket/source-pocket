@@ -4,4 +4,8 @@ title: Ruby on Rails
 sidebar_label: Ruby on Rails
 ---
 
-## Ruby on Rails
+## Beginner
+
+## Intermediate
+
+## Advanced
