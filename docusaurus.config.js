@@ -32,7 +32,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Pockets",
           items: [
             {
               label: "Contribute",
@@ -58,6 +58,10 @@ module.exports = {
               label: "Mobile Development Pocket",
               to: "docs/mobile-development/android",
             },
+          ],
+        },
+        {
+          items: [
             {
               label: "Graphic Design Pocket",
               to: "docs/graphic-design/general-design",
