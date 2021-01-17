@@ -1,6 +1,6 @@
 module.exports = {
   "Source Pocket": {
-    "💻 Contribute": ["style-guide"],
+    "💻 Contribute": ["contribution-guide", "style-guide"],
     "📚 Programming Languages Pocket": [
       "programming-languages/assembly",
       "programming-languages/c",
@@ -19,6 +19,7 @@ module.exports = {
       "programming-languages/swift",
     ],
     "🌐 Web Development Pocket": [
+      "web-development/front-end-web",
       "web-development/hosting-and-servers",
       "web-development/asp-net-mvc",
       "web-development/asp-net-webforms",
@@ -101,7 +102,6 @@ module.exports = {
       "network-programming/ipv4-ipv6",
       "network-programming/network",
       "network-programming/tcpip",
-    ],
-    "😥 Not Categorized Yet": ["front-end", "design"],
+    ]
   },
 };

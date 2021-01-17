@@ -1,8 +1,7 @@
 ---
-id: front-end
-title: Front-End Pocket
-sidebar_label: Front-End Pocket
-slug: /front-end
+id: front-end-web
+title: Front-End
+sidebar_label: Front-End
 ---
 
 ## Websites
