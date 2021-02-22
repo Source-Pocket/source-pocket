@@ -1,7 +1,7 @@
 ---
 id: angularjs
-title: Angular JS / Angular
-sidebar_label: Angular JS / Angular
+title: AngularJS / Angular
+sidebar_label: AngularJS / Angular
 ---
 
 ## Beginner

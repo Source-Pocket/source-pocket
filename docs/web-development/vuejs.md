@@ -1,7 +1,7 @@
 ---
 id: vuejs
-title: Vue JS
-sidebar_label: Vue JS
+title: VueJS
+sidebar_label: VueJS
 ---
 
 ## Beginner
