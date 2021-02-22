@@ -8,4 +8,6 @@ sidebar_label: CSS
 
 ## Intermediate
 
+- [CSS Gradient](https://cssgradient.io/ "CSSGradient")
+
 ## Advanced

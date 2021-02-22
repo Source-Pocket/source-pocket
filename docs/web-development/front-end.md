@@ -6,17 +6,13 @@ sidebar_label: Front-End
 
 ## Websites
 
-- [Nick Scialli](https://nick.scialli.me/ "Nick Scialli") - JavaScript
-
 - [CSS Tricks](https://css-tricks.com/ "CSS Tricks") - HTML, CSS, JavaScript
 
 - [Flavio Copes](https://flaviocopes.com "Flavio Copes") - General Blog for Software Development
 
-- [Academind](https://academind.com/ "Academind") - JavaScript, JavaScript Frameworks
+- [Academind](https://academind.com/ "Academind") - JS Frameworks
 
 - [Fatih Hayrioğlu](https://fatihhayrioglu.com/ "Fatih Hayrioğlu") - HTML, CSS, JavaScript
-
-- [Dmitri Pavlutin](https://dmitripavlutin.com/ "Dmitri Pavlutin") - JavaScript
 
 - [Samantha Ming](https://www.samanthaming.com/ "Samantha Ming") - HTML, CSS, JavaScript
 
@@ -24,15 +20,7 @@ sidebar_label: Front-End
 
 - [Smashing Magazine](https://www.smashingmagazine.com/ "Smashing Magazine") HTML, CSS, JavaScript, JavaScript Frameworks
 
-- [Carlos Caballero](https://carloscaballero.io/ "Carlos Caballero") - JavaScript
-
-- [2ality](https://2ality.com/ "2ality") - JavaScript
-
 - [Chen Hui Jing](https://chenhuijing.com/ "Chen Hui Jing") - JavaScript, General Web Development
-
-- [Zell Liew](https://zellwk.com/blog/ "Zell Liew") - JavaScript
-
-- [Jared Nielsen](https://jarednielsen.com/blog/ "Jared Nielsen") - JavaScript
 
 - [Polypane Blog](https://polypane.app/blog/ "Polypane Blog") - HTML, CSS, General Web Development
 
@@ -71,10 +59,6 @@ sidebar_label: Front-End
 - [Free Frontend](https://freefrontend.com/ "Free Frontend") - HTML, CSS, JavaScript, General Web Development
 
 - [Code Source](https://codesource.io/ "CodeSource") - HTML, CSS, JavaScript, JavaScript Frameworks, General Web Development
-
-- [CSS Gradient](https://cssgradient.io/ "CSSGradient") - CSS Useful Site
-
-- [JavaScript Info](https://tr.javascript.info/ "JavaScript Info") - JavaScript
 
 - [Free Code Camp](https://www.freecodecamp.org/ "freeCodeCamp") - HTML, CSS, JavaScript
 
