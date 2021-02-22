@@ -40,7 +40,7 @@ module.exports = {
             },
             {
               label: "Programming Languages Pocket",
-              to: "docs/programming-languages/assembly",
+              to: "docs/programming-languages/computer-science",
             },
             {
               label: "Web Development Pocket",
