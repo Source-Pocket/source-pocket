@@ -2,6 +2,7 @@ module.exports = {
   "Source Pocket": {
     "💻 Contribute": ["contribution-guide", "style-guide"],
     "📚 Programming Languages Pocket": [
+      "programming-languages/computer-science",
       "programming-languages/assembly",
       "programming-languages/c",
       "programming-languages/cplusplus",
@@ -20,6 +21,7 @@ module.exports = {
     ],
     "🌐 Web Development Pocket": [
       "web-development/front-end-web",
+      "web-development/back-end-web",
       "web-development/hosting-and-servers",
       "web-development/asp-net-mvc",
       "web-development/asp-net-webforms",
