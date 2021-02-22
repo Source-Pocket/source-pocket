@@ -16,7 +16,7 @@ sidebar_label: Javascript
 
 - [Dmitri Pavlutin](https://dmitripavlutin.com/ "Dmitri Pavlutin")
 
-- [Carlos Caballero](https://carloscaballero.io/ "Carlos Caballero") - JavaScript
+- [Carlos Caballero](https://carloscaballero.io/ "Carlos Caballero")
 
 - [2ality](https://2ality.com/ "2ality")
 
