@@ -16,37 +16,22 @@
 
 ## What type of PR is this? (check all applicable)
 
-- [ ] Refactor
-- [ ] Feature
-- [ ] Bug Fix
+- [ ] Added new link to category
+- [ ] New category added
+- [ ] Fixed broken link
+- [ ] Typo fix
+- [ ] Readme update
 - [ ] Optimization
-- [ ] Documentation Update
+- [ ] Documentation update
+- [ ] Frontend update
 
 ## Description
 
-## Related Tickets & Documents
+## [optional] Related Tickets & Documents
 
-## QA Instructions, Screenshots, Recordings
+## [optional] QA Instructions, Screenshots, Recordings
 
 _Please replace this line with instructions on how to test your changes, as well
 as any relevant images for UI changes._
 
-### UI accessibility concerns?
-
-_If your PR includes UI changes, please replace this line with details on how
-accessibility is impacted and tested._
-
-## Added tests?
-
-- [ ] Yes
-- [ ] No, and this is why: _please replace this line with details on why tests
-      have not been included_
-- [ ] I need help with writing tests
-
-## Added to documentation?
-
-- [ ] [Docs](https://sourcepocket.netlify.app/docs)
-- [ ] README
-- [ ] No documentation needed
-
-## [optional] Are there any post deployment tasks we need to perform?
+## [optional] Anything Else?
