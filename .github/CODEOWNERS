@@ -11,10 +11,4 @@ CODE_OF_CONDUCT.md   @damla @TheYkk
 # `docs/getting-started.md` but not further nested files like
 docs/* @damla @omerayyildiz
 
-docs/azure.md @ilter
-docs/aws.md @ilter
-docs/android-studio.md @ilter
-docs/docker.md @ilter
-docs/git.md @ilter
-docs/visualstudio.md @ilter
-docs/visual-studio-code.md @ilter
+# docs/azure.md @username
