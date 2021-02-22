@@ -15,7 +15,7 @@ sidebar_label: Go
 
 - [Golang By Example](https://golangbyexample.com/ "Golang By Example")
 
-- [Golanggr](https://golangr.com/exercises/ "Golanggr")
+- [Go Exercises](https://golangr.com/exercises/ "Go Exercises")
 
 - [Cloudhadopp](https://www.cloudhadoop.com/tags/golang/ "Cloudhadopp")
 
