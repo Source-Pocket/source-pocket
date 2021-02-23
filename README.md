@@ -30,8 +30,6 @@ $ yarn start
 * [@TheYkk](https://github.com/TheYkk "Kaan KARAKAYA")
 * [@liveans](https://github.com/liveans "Ahmet İbrahim AKSOY")
 
----
-
-## License
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/)
