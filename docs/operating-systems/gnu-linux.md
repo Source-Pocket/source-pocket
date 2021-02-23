@@ -5,6 +5,7 @@ sidebar_label: GNU / Linux
 ---
 
 ## Beginner
+* [Linux Sohbetleri GNU/Linux Nedir? #1 Podcast] (https://open.spotify.com/episode/1nKYie7fuJhl33zruSRaRt)
 
 ## Intermediate
 * [Man7](https://man7.org/ "Man7") 
