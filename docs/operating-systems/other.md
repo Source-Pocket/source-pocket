@@ -1,5 +1,5 @@
 ---
-id: other
+id: other-os
 title: Other OS
 sidebar_label: Other OS
 ---
