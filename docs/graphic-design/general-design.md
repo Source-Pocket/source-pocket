@@ -52,6 +52,8 @@ sidebar_label: General Design
 
 - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw)
 
+- [Kadir Şahin Playlist](https://www.youtube.com/playlist?list=PLqIY4SKk2-ZGXXFMXP7VjQZrb-73YzJsl)
+
 ## Books
 
 - Görsel İletişim ve Grafik Tasarım - Tevfik Fikret Uçar
