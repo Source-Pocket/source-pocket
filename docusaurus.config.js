@@ -134,7 +134,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/sdtrdev/source-pocket/blob/main/",
+          editUrl: "https://github.com/sdtrdev/source-pocket/blob/dev/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
