@@ -11,4 +11,5 @@ CODE_OF_CONDUCT.md   @damla @TheYkk
 # `docs/getting-started.md` but not further nested files like
 docs/* @damla @omerayyildiz
 
-# docs/azure.md @username
+docs/c.md @liveans
+docs/cplusplus.md @liveans
