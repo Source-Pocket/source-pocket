@@ -27,7 +27,7 @@
 
 ## Description
 
-## [optional] Related Tickets & Documents
+## [optional] Related Issues & Documents
 
 ## [optional] QA Instructions, Screenshots, Recordings
 
