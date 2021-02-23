@@ -10,12 +10,12 @@ const features = [
   {
     title: "Easy to Reach",
     imageUrl: "img/undraw_docusaurus_mountain.svg",
-    description: <>Useful sources from everwhere!</>,
+    description: <>Useful sources for every language!</>,
   },
   {
     title: "Focus on What Matters",
     imageUrl: "img/undraw_docusaurus_tree.svg",
-    description: <>Find what is important for you in our source pocket.</>,
+    description: <>Find crucial sources in our Source Pocket.</>,
   },
 ];
 
