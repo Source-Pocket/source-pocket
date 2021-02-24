@@ -16,10 +16,12 @@ sidebar_label: Python
 - [🎥 PYTHON v3 Giriş | Sadi Evren Şeker 🎥](https://youtu.be/AaOv4BjN2UY "PYTHON v3 Giriş")
 
 ## Intermediate
+
 - [The Python Tutorial](https://docs.python.org/3/tutorial/ "The Python Tutorial")
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
 
 ## Advanced
+
 - [Advanced Python Tutorials](https://realpython.com/tutorials/advanced/ "Advanced Python Tutorials")
 - [Cryptography with Python](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm "Cryptography with Python")
 - [🎥 Python Pandas Tutorial | Corey Schafer 🎥](https://youtu.be/ZyhVh-qRZPA "Python Pandas Tutorial")
