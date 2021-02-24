@@ -5,6 +5,7 @@ sidebar_label: Arduino
 ---
 
 ## Beginner
+
 - [Arduino getting started](https://www.arduino.cc/en/Guide "Arduino getting started")
 - [Robotistan Ardiuno programlama dersleri](https://maker.robotistan.com/kategori/arduino/arduino-programlama/ "Robotistan Ardiuno programlama dersleri")
 - [🎥 Arduino Tarifleri 🎥](https://youtu.be/veJUayf1pxo "Arduino Tarifleri")
