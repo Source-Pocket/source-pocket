@@ -1,3 +1,4 @@
+---
 id: vim
 title: Vim
 sidebar_label: Vim
