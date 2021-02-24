@@ -1,6 +1,6 @@
 # What is Source Pocket?
 
-![Source Pocket Readme Banner](assets/gif/source-pocket-readme.gif)
+![Source Pocket Readme Banner](static/gif/source-pocket-banner.gif)
 
 Source Pocket has been created to help developer community to easily find most useful resources according to their level. Everyone is free to share their favorite resources, simply by adding their links according to our [Contribution Guide](https://sourcepocket.netlify.app/docs/ "Contribution Guide").
 
