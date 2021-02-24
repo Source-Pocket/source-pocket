@@ -9,3 +9,8 @@ sidebar_label: MacOS
 ## Intermediate
 
 ## Advanced
+
+## Sources and Apps
+
+- [Mac Icons for Big Sur](https://macosicons.com/)
+- [DuckDuckGo Privacy Extension](https://github.com/duckduckgo/duckduckgo-privacy-extension)
