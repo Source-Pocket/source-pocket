@@ -5,6 +5,7 @@ sidebar_label: HTML
 ---
 
 ## Beginner
+
 - [W3Schools HTML](https://www.w3schools.com/html/default.asp "W3Schools HTML")
 - [Tutorialspoint HTML](https://www.tutorialspoint.com/html/index.htm "Tutorialspoint HTML")
 - [Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/ "Freecodecamp")
@@ -14,8 +15,8 @@ sidebar_label: HTML
 - [🎥 HTML | Giriş (Kodluyoruz) 🎥](https://www.youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX- "Kodluyoruz")
 - [🎥 Web Odası HTML & CSS Eğitim Seti 🎥](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S " Web Odası HTML & CSS Eğitim Seti")
 
-
 ## Intermediate
+
 - [MDN Web Docs HTML](https://developer.mozilla.org/tr/docs/Web/HTML "MDN Web Docs HTML")
 - [javatpoint HTML tutorial](https://www.javatpoint.com/html-tutorial "javatpoint HTML tutorial")
 - [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD "A list of everything that *could* go in the <head> of your document")
@@ -23,4 +24,5 @@ sidebar_label: HTML
 - [HTML'de Örnek Yöntemler](https://github.com/umutphp/html-best-practices/blob/master/README.tr.md "HTML'de Örnek Yöntemler")
 
 ## Advanced
+
 - [Devdocs HTML](https://devdocs.io/html/ "Devdocs HTML")

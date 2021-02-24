@@ -5,6 +5,7 @@ sidebar_label: Go
 ---
 
 ## Beginner
+
 - [Go Tour](https://tour.golang.org/welcome/1 "Go Tour")
 - [Go By Example](https://gobyexample.com/ "Go By Example")
 - [Golang](https://golang.org/ "Golang")
@@ -14,6 +15,7 @@ sidebar_label: Go
 - [Cloudhadopp](https://www.cloudhadoop.com/tags/golang/ "Cloudhadopp")
 
 ## Intermediate
+
 - [Jon Calhoun](https://www.calhoun.io/ "Jn Calhoun")
 - [Tutorial Edge Go](https://tutorialedge.net/course/golang/ "Tutorial Edge Go")
 - [Golang Code](https://golangcode.com/ "Golang Code")
@@ -29,7 +31,5 @@ sidebar_label: Go
 - [Develop Go](https://github.com/developgo "Develop Go")
 
 ## Advanced
-- [Go Beyond](https://www.gobeyond.dev/ "Go Beyond")
 
-## Jobs 
-- [Golang Cafe](https://golang.cafe/ "Golang Cafe")
+- [Go Beyond](https://www.gobeyond.dev/ "Go Beyond")
