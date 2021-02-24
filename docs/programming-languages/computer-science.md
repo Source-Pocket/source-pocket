@@ -8,4 +8,6 @@ sidebar_label: Computer Science
 
 ## Intermediate
 
+- [Design Patterns](https://refactoring.guru/)
+
 ## Advanced
