@@ -15,14 +15,17 @@ sidebar_label: Python
 - [🎥 Python Programlama Dersleri | Yazılım Bilimi 🎥](https://youtu.be/tvvEqvyh_Vw "Python Programlama Dersleri")
 - [🎥 PYTHON v3 Giriş | Sadi Evren Şeker 🎥](https://youtu.be/AaOv4BjN2UY "PYTHON v3 Giriş")
 
+
 ## Intermediate
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/ "The Python Tutorial")
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
 
+
 ## Advanced
 
 - [Advanced Python Tutorials](https://realpython.com/tutorials/advanced/ "Advanced Python Tutorials")
 - [Cryptography with Python](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm "Cryptography with Python")
+- [🎥 Algorithmic Trading Using Python | freeCodeCamp 🎥](https://youtu.be/xfzGZB4HhEE "Algorithmic Trading Using Python | freeCodeCamp")
 - [🎥 Python Pandas Tutorial | Corey Schafer 🎥](https://youtu.be/ZyhVh-qRZPA "Python Pandas Tutorial")
 - [🎥 Matplotlib Tutorial | Corey Schafer 🎥](https://youtu.be/UO98lJQ3QGI "Matplotlib Tutorial")
