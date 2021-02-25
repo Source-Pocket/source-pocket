@@ -57,6 +57,7 @@ module.exports = {
       "operating-systems/macos",
       "operating-systems/windows",
       "operating-systems/gnu-linux",
+      "operating-systems/other-os"
     ],
     "🛠 Mobile Development Pocket": [
       "mobile-development/android",

@@ -9,3 +9,5 @@ sidebar_label: Photo and Video
 ## Intermediate
 
 ## Advanced
+
+- [Adobe Photoshop Scripting](https://www.adobe.com/devnet/photoshop/scripting.html)

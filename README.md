@@ -1,18 +1,12 @@
-# Source Pocket
+# What is Source Pocket?
 
-## Table of contents
-
-* [What is Source Pocket?](#What-is-Source-Pocket?)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
----
-
-## What is Source Pocket?
+![Source Pocket Readme Banner](static/gif/source-pocket-readme.gif)
 
 Source Pocket has been created to help developer community to easily find most useful resources according to their level. Everyone is free to share their favorite resources, simply by adding their links according to our [Contribution Guide](https://sourcepocket.netlify.app/docs/ "Contribution Guide").
 
-## Technologies
+[🖊 Semantic Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) are important for everyone. We would be very happy if you pay attention to this.
+
+# Technologies
 
 Project is created with:
 
@@ -22,7 +16,7 @@ Project is created with:
 * [clsx](https://www.npmjs.com/package/clsx "clsx"): 1.1.1
 * Passion of [software developers](https://discord.gg/J3PTmeFj6s "SDTRDEV") with some coffee and black tea 👩🏼‍💻☕️👨🏼‍💻☕️
 
-## Setup
+# Setup
 
 To run this project, install it locally using yarn:
 
@@ -31,17 +25,13 @@ $ yarn
 $ yarn start
 ```
 
-[Semantic Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) are important for everyone 🖊
-
-## Code Owners
+# Code Owners
 
 * [@damla](https://github.com/damla "Damla KÖKSAL")
 * [@omerayyildiz](https://github.com/omerayyildiz "Ömer AYYILDIZ")
 * [@TheYkk](https://github.com/TheYkk "Kaan KARAKAYA")
 * [@liveans](https://github.com/liveans "Ahmet İbrahim AKSOY")
 
----
-
-## License
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/)

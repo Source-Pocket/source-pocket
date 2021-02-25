@@ -1,3 +1,4 @@
+---
 id: vim
 title: Vim
 sidebar_label: Vim
@@ -13,6 +14,5 @@ sidebar_label: Vim
 
 - [Vim Sence](https://github.com/hugolgst/vimsence "Vim Sence")
 - [Introduction To Vim Customization](https://www.linode.com/docs/guides/introduction-to-vim-customization/ "Introduction To Vim Customization")
-
 
 ## Advanced
