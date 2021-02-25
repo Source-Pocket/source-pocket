@@ -4,6 +4,7 @@ sidebar_label: Vim
 ---
 
 ## Beginner
+
 * [Cheat Sheet İmage](https://i.imgur.com/YLInLlY.png "Cheat Sheet")
 * [The Ultimate Vim configuration](https://github.com/amix/vimrc "The Ultimate Vim configuration")
 * [Vim Cheat Sheet](https://vim.rtorr.com/ "Vim Cheat Sheet")
