@@ -13,6 +13,8 @@ sidebar_label: Javascript
 - [JavaScript Tutorial | W3Schools](https://www.w3schools.com/js/default.asp "W3Schools JavaScript Tutorial")
 - [JavaScript30](https://javascript30.com/ "JavaScript30")
 - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript "30 Days Of JavaScript")
+- [JavaScript Tutorial](https://www.javascripttutorial.net/ "JavaScript Tutorial")
+- [freeCodeCamp Learn](https://www.freecodecamp.org/learn/ "freeCodeCamp Learn")
 
 ## Intermediate
 
@@ -24,10 +26,10 @@ sidebar_label: Javascript
 - [Jared Nielsen](https://jarednielsen.com/blog/ "Jared Nielsen")
 - [JavaScript Rehberi Orta seviye | MDN Web Docs](https://developer.mozilla.org/tr/docs/Web/JavaScript#Orta_seviye "JavaScript Rehberi Orta seviye")
 
-
 ## Advanced
 
 - [Dmitri Pavlutin](https://dmitripavlutin.com/ "Dmitri Pavlutin")
 - [2ality](https://2ality.com/ "2ality")
 - [Zell Liew](https://zellwk.com/blog/ "Zell Liew")
 - [JavaScript Rehberi Üst seviye | MDN Web Docs](https://developer.mozilla.org/tr/docs/Web/JavaScript#%C3%9Cst_seviye "JavaScript Rehberi Üst seviye")
+- [Ecma Language Specification](https://tc39.es/ecma262/ "Ecma Language Specification")
