@@ -9,6 +9,7 @@ sidebar_label: Android
 - [Android Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 - [100+ Java Android Programming Examples](https://www.sanfoundry.com/java-android-programing-examples/)
 - [Android Developer Fundamentals Course](https://google-developer-training.github.io/android-developer-fundamentals-course-practicals/en/)
+- [Simplified Coding](https://www.youtube.com/c/SimplifiedcodingNetOfficial/featured)
 
 ## Intermediate
 
