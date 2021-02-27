@@ -15,7 +15,7 @@ sidebar_label: Wordpress
 
 ## Intermediate
 
-[🛠 Became Pro on WordPress with this sources (note: ADBlock unfriendly) 🛠](https://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990/2 "Became Pro on WordPress with this Sources")
-[🚛 How to Start Online Store with WordPress + WooCommerce 🚛](https://www.wpbeginner.com/wp-tutorials/how-to-start-an-online-store/ "How to start Online Store with WordPress + WooCommerce")
+- [🛠 Became Pro on WordPress with this sources (note: ADBlock unfriendly) 🛠](https://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990/2 "Became Pro on WordPress with this Sources")
+- [🚛 How to Start Online Store with WordPress + WooCommerce 🚛](https://www.wpbeginner.com/wp-tutorials/how-to-start-an-online-store/ "How to start Online Store with WordPress + WooCommerce")
 
 ## Advanced
