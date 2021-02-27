@@ -1,7 +1,7 @@
 module.exports = {
   title: "Source Pocket",
   tagline: "Your source pocket for development",
-  url: "https://sourcepocket.netlify.com",
+  url: "https://sourcepocket.sdtr.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
