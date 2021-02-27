@@ -22,6 +22,7 @@ sidebar_label: Java
 - [Java'da Multithreading | Ufuk Uzun](https://ufukuzun.wordpress.com/yayinlarim/javada-multithreading/ "Java'da Multithreading")
 - [Java Tutorial | JavaTpoint](https://www.javatpoint.com/java-tutorial "Java Tutorial | JavaTpoint")
 - [Tutorialspoint Java Tutorial](https://www.tutorialspoint.com/java/index.htm "Tutorialspoint Java Tutorial")
+- [Ram N Java Tutorial](https://www.youtube.com/user/ramram43210/playlists)
 
 ## Advanced
 
