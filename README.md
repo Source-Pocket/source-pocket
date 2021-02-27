@@ -25,6 +25,10 @@ $ yarn
 $ yarn start
 ```
 
+# Artworks Repository
+
+* [🧑‍🎨 sdtrdev/sp-artworks](https://github.com/sdtrdev/sp-artworks)
+
 # Code Owners
 
 * [@damla](https://github.com/damla "Damla KÖKSAL")
