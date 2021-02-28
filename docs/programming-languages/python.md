@@ -14,12 +14,15 @@ sidebar_label: Python
 - [🎥 Python Tutorial for Beginners | Corey Schafer 🎥](https://youtu.be/YYXdXT2l-Gg "Python Tutorial for Beginners")
 - [🎥 Python Programlama Dersleri | Yazılım Bilimi 🎥](https://youtu.be/tvvEqvyh_Vw "Python Programlama Dersleri")
 - [🎥 PYTHON v3 Giriş | Sadi Evren Şeker 🎥](https://youtu.be/AaOv4BjN2UY "PYTHON v3 Giriş")
+- [Tons of Algorithmic Solutions with Python](https://github.com/TheAlgorithms/Python)
+- [Python Projects with Beginners](https://beginnerpythonprojects.com)
 
 
 ## Intermediate
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/ "The Python Tutorial")
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
+- [The Hitchhikker's Guide to Python](https://docs.python-guide.org)
 
 
 ## Advanced
