@@ -24,5 +24,4 @@ sidebar_label: Deep Learning
 ## Advanced
 
 - [Reinforcement Learning Sources Repo](https://github.com/dennybritz/reinforcement-learning)
-
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
