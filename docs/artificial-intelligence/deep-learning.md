@@ -5,6 +5,7 @@ sidebar_label: Deep Learning
 ---
 
 ## Beginner
+
 [Pytorch for Deep Learing - Full Course/ Tutorial](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 [Applied Deep Learning With Pytorch - Full Course](https://www.youtube.com/watch?v=CNuI8OWsppg)
 
