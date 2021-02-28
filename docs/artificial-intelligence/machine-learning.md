@@ -17,9 +17,7 @@ sidebar_label: Machine Learning
 ## Intermediate
 
 - [Datacamp ML Scientist Career Track](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)
-
 - [Kaggle Intermediate ML Course](https://www.kaggle.com/learn/intermediate-machine-learning)
-
 - [Codeacademy ML Skill Path](https://www.codecademy.com/learn/paths/machine-learning)
 
 ## Advanced
