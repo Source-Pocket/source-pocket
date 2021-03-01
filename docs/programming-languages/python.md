@@ -16,10 +16,11 @@ sidebar_label: Python
 - [🎥 PYTHON v3 Giriş | Sadi Evren Şeker 🎥](https://youtu.be/AaOv4BjN2UY "PYTHON v3 Giriş")
 - [Tons of Algorithmic Solutions with Python](https://github.com/TheAlgorithms/Python)
 - [Python Projects with Beginners](https://beginnerpythonprojects.com)
-
+- [Python Programlama oyreten oyun  | checkio](https://py.checkio.org/)
 
 ## Intermediate
 
+- [Python Programlama oyreten oyun  | checkio](https://py.checkio.org/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/ "The Python Tutorial")
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
 - [The Hitchhikker's Guide to Python](https://docs.python-guide.org)
@@ -27,6 +28,7 @@ sidebar_label: Python
 
 ## Advanced
 
+- [Python Programlama oyreten oyun  | checkio](https://py.checkio.org/)
 - [Advanced Python Tutorials](https://realpython.com/tutorials/advanced/ "Advanced Python Tutorials")
 - [Cryptography with Python](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm "Cryptography with Python")
 - [🎥 Algorithmic Trading Using Python | freeCodeCamp 🎥](https://youtu.be/xfzGZB4HhEE "Algorithmic Trading Using Python | freeCodeCamp")
