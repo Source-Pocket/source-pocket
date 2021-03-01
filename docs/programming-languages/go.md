@@ -13,6 +13,11 @@ sidebar_label: Go
 - [Golang By Example](https://golangbyexample.com/ "Golang By Example")
 - [Go Exercises](https://golangr.com/exercises/ "Go Exercises")
 - [Cloudhadopp](https://www.cloudhadoop.com/tags/golang/ "Cloudhadopp")
+- [Presentation for Beginner (tr)](https://go-talks.appspot.com/github.com/fatih/talks/go-giris/giris.slide#1)
+- [Article for Beginner (tr)](https://medium.com/i%CC%87yi-programlama/golang-c31ab87eb67c)
+- [GoLang Structs (tr)](https://handeebrar.medium.com/golang-structs-with-out-pointers-5e86f0674a55)
+- [GoLang E-Book (tr)](https://go.kaanksc.com/)
+- [GoLang Video Tutorials for Beginner (tr)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)
 
 ## Intermediate
 
@@ -29,7 +34,9 @@ sidebar_label: Go
 - [Applied Go](https://appliedgo.net/ "Applied Go")
 - [Shubham Chadokar](https://schadokar.dev/ "Shubham Chadokar")
 - [Develop Go](https://github.com/developgo "Develop Go")
+- [Go RESTful API Programming](https://www.youtube.com/playlist?list=PLr48dQTh3FFyWe4twhEmeoO-Yvt6rsDPw)
 
 ## Advanced
 
 - [Go Beyond](https://www.gobeyond.dev/ "Go Beyond")
+- [Design Patterns](https://refactoring.guru/design-patterns/go)
