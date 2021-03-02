@@ -37,6 +37,7 @@ sidebar_label: Go
 - [Shubham Chadokar](https://schadokar.dev/ "Shubham Chadokar")
 - [Develop Go](https://github.com/developgo "Develop Go")
 - [Go RESTful API Programming](https://www.youtube.com/playlist?list=PLr48dQTh3FFyWe4twhEmeoO-Yvt6rsDPw)
+- [Go Proverbs](https://go-proverbs.github.io/ "Go Proverbs")
 
 ## Advanced
 
