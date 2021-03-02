@@ -20,6 +20,7 @@ sidebar_label: Django
 ## Intermediate
 - [Real Python](https://realpython.com/tutorials/django/ "Real Python")
 - [Murat Vuranok MongoDB-Django](https://medium.com/batech/mongodb-django-69e6b9d3625d "Murat Vuranok MongoDB-Django")
+- [🎥 Django Testing Tutorial 🎥](https://youtu.be/qwypH3YvMKc "🎥 Django Testing Tutorial 🎥")
 
 ## Advanced
 - [Advanced Django Training](https://django-advanced-training.readthedocs.io/en/latest/ "Advanced Django Training")
