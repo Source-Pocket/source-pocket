@@ -18,6 +18,8 @@ sidebar_label: Go
 - [GoLang Structs (tr)](https://handeebrar.medium.com/golang-structs-with-out-pointers-5e86f0674a55)
 - [GoLang E-Book (tr)](https://go.kaanksc.com/)
 - [GoLang Video Tutorials for Beginner (tr)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)
+- [Golang Bootcamp](http://www.golangbootcamp.com/book "Golang Bootcamp")
+- [Go Slice Tricks](https://ueokande.github.io/go-slice-tricks/ "Go Slice Tricks")
 
 ## Intermediate
 
