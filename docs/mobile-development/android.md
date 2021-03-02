@@ -16,4 +16,6 @@ sidebar_label: Android
 
 ## Intermediate
 
+- [Database Tutorial](https://www.youtube.com/watch?v=hDSVInZ2JCs)
+
 ## Advanced
