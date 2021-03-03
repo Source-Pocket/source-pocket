@@ -10,4 +10,8 @@ sidebar_label: Other OS
 
 ## Intermediate
 
+- [OSDEV Wiki](https://wiki.osdev.org/Expanded_Main_Page)
+- [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+- [Write Your Own Operating System Playlist](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+
 ## Advanced
