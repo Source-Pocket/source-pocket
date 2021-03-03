@@ -19,7 +19,6 @@ sidebar_label: Rust
 ## Intermediate
 
 - [The Standard Rust Library](https://doc.rust-lang.org/std/index.html)
-- 
 ## Advanced
 
 - [Rust Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
