@@ -31,4 +31,3 @@ sidebar_label: Wordpress
 - [🟢 Advanced Level of Optimizations and SpeedMetrix 🟢](https://www.competethemes.com/blog/speed-up-wordpress/ "Advanced Level of Optimizations & Speed Optimizations and SpeedMetrix")
 - [🧾 Conversion Metrics, Boosts, Setup 🧾](https://www.crazyegg.com/blog/conversion-boosting-wordpress-plugins/ "Conversion Metrics, Boosts, Setup")
 - [🏪 WooCommerce Marketing & Sales Boost 🏪](https://www.wpexplorer.com/woocommerce-marketing-techniques/ "WooCommerce Marketing & Sales Boost")
-- 
