@@ -38,3 +38,5 @@ sidebar_label: GNU / Linux
 - [The Geek Diary](https://www.thegeekdiary.com/ "The Geek Diary")
 
 ## Advanced
+
+- [The Linux Kernel Documentation](https://linux-kernel-labs.github.io/refs/heads/master/index.html)
