@@ -25,7 +25,6 @@ sidebar_label: Python
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
 - [The Hitchhikker's Guide to Python](https://docs.python-guide.org)
 
-
 ## Advanced
 
 - [Python Programlama öğreten oyun  | checkio](https://py.checkio.org/ "Python Programlama öğreten oyun")
