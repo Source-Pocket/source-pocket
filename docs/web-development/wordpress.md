@@ -24,7 +24,7 @@ sidebar_label: Wordpress
 - [👌 Intermediate Speed Optimizations and Optimizations 👌](https://kinsta.com/learn/speed-up-wordpress/ "Intermediate Speed Optmizations and Optimizations")
 - [🔘 Use Elementor & Build Page Easily 🔘](https://www.competethemes.com/blog/customize-wordpress-page-builder/ "Use Elementor & Build a Page Easily")
 - [🔐 Keep Your WordPress Site Safe 🔐](https://kinsta.com/blog/wordpress-security/ "Keep Your WordPress Site Safe")
-- [〄 All Over Mid-Level WordPress Tutarials 500+ 〄](https://www.wpbeginner.com/category/wp-tutorials/ "All Over Mid-Level WordPress Tutarials 500+)
+- [〄 All Over Mid-Level WordPress Tutarials 500+ 〄](https://www.wpbeginner.com/category/wp-tutorials/ "All Over Mid-Level WordPress Tutarials 500+")
 
 ## Advanced
 
