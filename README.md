@@ -33,6 +33,8 @@ $ yarn start
 
 * [@damla](https://github.com/damla "Damla KÖKSAL")
 * [@omerayyildiz](https://github.com/omerayyildiz "Ömer AYYILDIZ")
+* [@YusufBilgin](https://github.com/YusufBilgin "Yusuf Bilgin")
+* [@fatihlattab](https://github.com/fatihlattab "Fatih Battal")
 * [@TheYkk](https://github.com/TheYkk "Kaan KARAKAYA")
 * [@liveans](https://github.com/liveans "Ahmet İbrahim AKSOY")
 
