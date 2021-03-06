@@ -37,12 +37,12 @@ sidebar_label: Javascript
 - [JavaScript’de Currying nedir?. Yıllar önce JavaScript’i yeni öğrenen… | by Gökhan İpek | Jan, 2021 | Medium](https://gokhanipek.medium.com/javascriptde-currying-nedir-8ac3500da1d3)
 - [JavaScript Visualized: Promises & Async/Await | by Mahmut Yıldız | Feb, 2021 | Cimri Engineering](https://engineering.cimri.com/javascript-visualized-promises-async-await-f49c9233fb65)
 - [Mastering Hard Parts of JavaScript: Callbacks I - DEV](https://dev.to/internettradie/mastering-hard-parts-of-javascript-callbacks-i-3aj0)
-- [11 JavaScript Tricks You Won’t Find in Most Tutorials | by Bret Cameron | M](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
+- [11 JavaScript Tricks You Won’t Find in Most Tutorials | by Bret Cameron | Medium](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
 - [What the fuck is memoization? ・ Dan’s JavaScript Glossary](https://whatthefuck.is/memoization)
 - [JavaScript Classes, Inheritance, and Prototype Chaining (ES5 and ES6 Way)](https://medium.com/developers-arena/javascript-classes-inheritance-and-prototype-chaining-es5-and-es6-way-4b8e9416702b)
 - [7 JavaScript Design Patterns Every developer should know](https://codesource.io/javascript-design-patterns)
 - [Tarayıcılar JavaScript’i Nasıl Yorumlar? - Oğuz Kılıç - Medium](https://medium.com/@oguzkilic/taray%C4%B1c%C4%B1lar-javascripti-nas%C4%B1l-yorumlar-fbdfc472f8e3)
-- [Functional Binding in JavaScript - DEV Community ?‍??‍?](https://dev.to/spukas/functional-binding-in-javascript-7b1)
+- [Functional Binding in JavaScript - DEV Community](https://dev.to/spukas/functional-binding-in-javascript-7b1)
 
 ## Advanced
 
