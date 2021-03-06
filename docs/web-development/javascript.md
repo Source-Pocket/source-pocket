@@ -34,7 +34,6 @@ sidebar_label: Javascript
 - [Zell Liew](https://zellwk.com/blog/ "Zell Liew")
 - [Jared Nielsen](https://jarednielsen.com/blog/ "Jared Nielsen")
 - [JavaScript Rehberi Orta seviye | MDN Web Docs](https://developer.mozilla.org/tr/docs/Web/JavaScript#Orta_seviye "JavaScript Rehberi Orta seviye")
-
 - [JavaScript’de Currying nedir?. Yıllar önce JavaScript’i yeni öğrenen… | by Gökhan İpek | Jan, 2021 | Medium](https://gokhanipek.medium.com/javascriptde-currying-nedir-8ac3500da1d3)
 - [JavaScript Visualized: Promises & Async/Await | by Mahmut Yıldız | Feb, 2021 | Cimri Engineering](https://engineering.cimri.com/javascript-visualized-promises-async-await-f49c9233fb65)
 - [Mastering Hard Parts of JavaScript: Callbacks I - DEV](https://dev.to/internettradie/mastering-hard-parts-of-javascript-callbacks-i-3aj0)
