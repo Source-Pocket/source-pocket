@@ -25,6 +25,6 @@ MMMMMMMMMN0d:'...';;::::::::::;;,...':d0NMMMMMMMMM
 MMMMMMMMMMMMWXOo:'..          ..':okXWMMMMMMMMMMMM
 
 
-Wow, you crazy developer. So you found this place. So how about contributing to us?
+Wow, you crazy developer. So you found this place. So how about being a code owner?
 
-https://sourcepocket.sdtr.dev/docs/
+https://github.com/sdtrdev/source-pocket/graphs/contributors
