@@ -38,6 +38,7 @@ sidebar_label: Go
 - [Develop Go](https://github.com/developgo "Develop Go")
 - [Go RESTful API Programming](https://www.youtube.com/playlist?list=PLr48dQTh3FFyWe4twhEmeoO-Yvt6rsDPw)
 - [Go Proverbs](https://go-proverbs.github.io/ "Go Proverbs")
+- [Go Web Programming E-Book](https://github.com/sakataa/Paper/blob/master/JS/Go%20Web%20Programming.pdf)
 
 ## Advanced
 
