@@ -28,6 +28,7 @@ module.exports = {
       "web-development/wordpress",
       "web-development/angularjs",
       "web-development/css",
+      "web-development/denojs",
       "web-development/django",
       "web-development/flask",
       "web-development/html",
