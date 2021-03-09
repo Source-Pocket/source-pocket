@@ -16,6 +16,7 @@ sidebar_label: Assembly
 - [ARMstrong - An ARM assembly emulator with GPIO functions](https://github.com/linouxis9/ARMStrong)
 - [Introduction to MIPS Assembly Language](https://chortle.ccsu.edu/assemblytutorial/index.html)
 - [Programming ARM Assembly in Raspberry Pi Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU)
+- [RISC-V Cheatsheet by jameslzhu in GitHub](https://github.com/jameslzhu/riscv-card/blob/master/riscv-card.pdf)
 
 ## Intermediate
 
