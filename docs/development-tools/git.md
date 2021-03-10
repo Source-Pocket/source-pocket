@@ -5,7 +5,7 @@ sidebar_label: Git
 ---
 
 ## Beginner
-
+- [Git Commands - FlashCards](https://app.memrise.com/course/5963550/git-komutlarikapsamli/)
 - [Git Tutorial](https://git-scm.com/docs/gittutorial "Git Tutorial")
 - [Türkçe Git 101 | Ali Öztürk](https://aliozgur.gitbooks.io/git101/content/ "Türkçe Git 101 | Ali Öztürk")
 - [🎥 Git Dersleri | Barış Aslan 🎥](https://youtu.be/rWG70T7fePg "Git Dersleri")
