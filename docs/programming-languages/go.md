@@ -39,8 +39,14 @@ sidebar_label: Go
 - [Go RESTful API Programming](https://www.youtube.com/playlist?list=PLr48dQTh3FFyWe4twhEmeoO-Yvt6rsDPw)
 - [Go Proverbs](https://go-proverbs.github.io/ "Go Proverbs")
 - [Go Web Programming E-Book](https://github.com/sakataa/Paper/blob/master/JS/Go%20Web%20Programming.pdf)
+- [gRPC in Go](https://grpc.io/docs/languages/go/quickstart/)
+- [Go gRPC Beginners Tutorial](https://tutorialedge.net/golang/go-grpc-beginners-tutorial/)
+- [Building an Basic API with gRPC and Protobuf](https://www.youtube.com/watch?v=Y92WWaZJl24)
+- [Beginners Guide to gRPC in Go!](https://www.youtube.com/watch?v=BdzYdN_Zd9Q)
+- [The complete gRPC course (Golang, Java, Protobuf)](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
 
 ## Advanced
 
 - [Go Beyond](https://www.gobeyond.dev/ "Go Beyond")
 - [Design Patterns](https://refactoring.guru/design-patterns/go)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
