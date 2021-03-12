@@ -43,7 +43,7 @@ sidebar_label: Go
 - [Go gRPC Beginners Tutorial](https://tutorialedge.net/golang/go-grpc-beginners-tutorial/)
 - [Building an Basic API with gRPC and Protobuf](https://www.youtube.com/watch?v=Y92WWaZJl24)
 - [Beginners Guide to gRPC in Go!](https://www.youtube.com/watch?v=BdzYdN_Zd9Q)
-- [The complete gRPC course [Golang, Java, Protobuf]](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
+- [The complete gRPC course (Golang, Java, Protobuf)](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
 
 ## Advanced
 
