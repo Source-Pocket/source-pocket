@@ -50,7 +50,3 @@ sidebar_label: Go
 - [Go Beyond](https://www.gobeyond.dev/ "Go Beyond")
 - [Design Patterns](https://refactoring.guru/design-patterns/go)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-
-## Tools
-
-- [JSON-to-Go](https://mholt.github.io/json-to-go/)
