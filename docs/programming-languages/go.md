@@ -20,6 +20,7 @@ sidebar_label: Go
 - [GoLang Video Tutorials for Beginner (tr)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)
 - [Golang Bootcamp](http://www.golangbootcamp.com/book "Golang Bootcamp")
 - [Go Slice Tricks](https://ueokande.github.io/go-slice-tricks/ "Go Slice Tricks")
+- [Learning Go](https://www.miek.nl/go/ "Learning Go")
 
 ## Intermediate
 
