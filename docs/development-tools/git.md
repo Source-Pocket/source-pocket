@@ -19,5 +19,6 @@ sidebar_label: Git
 
 - [Git Cheat Sheet Turkish](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md "Git Cheat Sheet Turkish")
 - [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/ "Git for Computer Scientists")
+- [Git Exercises](https://gitexercises.fracz.com/ "Git Exercises")
 
 ## Advanced
