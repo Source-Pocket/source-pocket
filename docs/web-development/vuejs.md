@@ -6,12 +6,12 @@ sidebar_label: VueJS
 
 ## Beginner
 
+- [Vue.js Guide](https://vuejs.org/v2/guide/ "Vue.js Guide")
 - [🎥 Vue JS Crash Course 2021 | Traversy Media 🎥](https://youtu.be/qZXt1Aom3Cs "Vue JS Crash Course 2021")
 - [Getting Started with Vue - An Overview and Walkthrough Tutorial – Tania Rascia](https://www.taniarascia.com/getting-started-with-vue)
 
 ## Intermediate
 
-- [Vue.js Guide](https://vuejs.org/v2/guide/ "Vue.js Guide")
 - [Utilize the File Structure to Decide When to Use Vue.js Slots - Markus Oberlehner](https://markus.oberlehner.net/blog/utilize-the-file-structure-to-decide-when-to-use-vuejs-slots/)
 - [Async Vue.js Components - Vue.js Tutorials](https://vueschool.io/articles/vuejs-tutorials/async-vuejs-components)
 - [How to Server Side Rendering (SSR) with Vue.js? | by Taha Selim Aksakal | The Startup](https://medium.com/swlh/how-to-server-side-rendering-ssr-with-vue-js-71cedce7c299)

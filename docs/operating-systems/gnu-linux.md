@@ -36,6 +36,7 @@ sidebar_label: GNU / Linux
 - [Linux Hint](https://linuxhint.com/ "Linux Hint")
 - [2 Day Geek](https://2daygeek.com/ "2 Day Geek")
 - [The Geek Diary](https://www.thegeekdiary.com/ "The Geek Diary")
+- [Linux Shell Tips](https://www.linuxshelltips.com/ "Linux Shell Tips")
 
 ## Advanced
 
