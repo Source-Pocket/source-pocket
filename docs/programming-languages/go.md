@@ -21,6 +21,7 @@ sidebar_label: Go
 - [Golang Bootcamp](http://www.golangbootcamp.com/book "Golang Bootcamp")
 - [Go Slice Tricks](https://ueokande.github.io/go-slice-tricks/ "Go Slice Tricks")
 - [Learning Go](https://www.miek.nl/go/ "Learning Go")
+- [Go Database SQL](http://go-database-sql.org/index.html "Go Database SQL")
 
 ## Intermediate
 
