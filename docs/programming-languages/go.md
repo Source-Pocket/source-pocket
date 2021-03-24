@@ -5,7 +5,7 @@ sidebar_label: Go
 ---
 
 ## Beginner
-
+- [Practical Go Lessons](https://www.practical-go-lessons.com/ "Practical Go Lessons")
 - [Go Tour](https://tour.golang.org/welcome/1 "Go Tour")
 - [Go By Example](https://gobyexample.com/ "Go By Example")
 - [Golang](https://golang.org/ "Golang")
