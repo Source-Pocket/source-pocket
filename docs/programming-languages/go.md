@@ -5,6 +5,7 @@ sidebar_label: Go
 ---
 
 ## Beginner
+
 - [Practical Go Lessons](https://www.practical-go-lessons.com/ "Practical Go Lessons")
 - [Go Tour](https://tour.golang.org/welcome/1 "Go Tour")
 - [Go By Example](https://gobyexample.com/ "Go By Example")
@@ -28,7 +29,7 @@ sidebar_label: Go
 - [Jon Calhoun](https://www.calhoun.io/ "Jn Calhoun")
 - [Tutorial Edge Go](https://tutorialedge.net/course/golang/ "Tutorial Edge Go")
 - [Golang Code](https://golangcode.com/ "Golang Code")
-- [Golang Bot](https://golangbot.com/ "Golang Bot") 
+- [Golang Bot](https://golangbot.com/ "Golang Bot")
 - [Golang Programs](https://www.golangprograms.com/ "Golang Programs")
 - [Go Web Examples](https://gowebexamples.com/ "Go Web Examples")
 - [Your Basic Go](https://yourbasic.org/ "Your Basic Go")
