@@ -126,6 +126,11 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} SourcePocket, Inc. Built with Docusaurus.`,
     },
+    algolia: {
+      apiKey: process.env.API_KEY,
+      indexName: "sourcepocket",
+      placeholder: "search in Source Pocket"
+    },
   },
   presets: [
     [
