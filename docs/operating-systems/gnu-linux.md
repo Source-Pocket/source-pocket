@@ -7,6 +7,7 @@ sidebar_label: GNU / Linux
 ## Beginner
 
 - [Linux Sohbetleri Podcast](https://open.spotify.com/show/0iMI5V85KVHFhNxe1B22zh "Linux Sohbetleri Podcast")
+- [The Linux Command Handbook | freecodecamp](https://www.freecodecamp.org/news/the-linux-commands-handbook/#the-linux-pwd-command "The Linux Command Handbook | freecodecamp")
 
 ## Intermediate
 
