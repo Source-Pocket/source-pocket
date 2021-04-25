@@ -24,6 +24,7 @@ sidebar_label: ReactJS
 - [useHooks - Easy to understand React Hook recipes](https://usehooks.com)
 - [Theming React Components with CSS Variables - Bits and Pieces](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
 - [React Training: React: "mount" vs "render"?](https://reacttraining.com/blog/mount-vs-render)
+- [React Türkçe Dokuman](https://omergulcicek.github.io/react/)
 
 ## Advanced
 
