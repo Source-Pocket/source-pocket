@@ -24,6 +24,7 @@ sidebar_label: Go
 - [Learning Go](https://www.miek.nl/go/ "Learning Go")
 - [Go Database SQL](http://go-database-sql.org/index.html "Go Database SQL")
 - [Essential Go](https://essential-go.programming-books.io/ "Essential Go")
+- [GoLang ile Web Geliştirme | Ahmet Buğra Çakıcı](https://www.youtube.com/watch?v=P5TRNhhq00w&list=PLHnI4uXxaT1aboTBx687QV5cLvGi7882a)
 
 ## Intermediate
 
