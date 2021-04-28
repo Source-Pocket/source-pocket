@@ -1,7 +1,7 @@
 ---
 id: javascript
-title: Javascript
-sidebar_label: Javascript
+title: JavaScript
+sidebar_label: JavaScript
 ---
 
 ## Beginner
