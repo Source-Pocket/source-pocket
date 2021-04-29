@@ -15,6 +15,7 @@ sidebar_label: General Design
 - [Dribbble](https://dribbble.com)
 - [Manifold](https://manifold.press)
 - [GMK](http://gmk.org.tr/publications)
+- [Pexels](https://www.pexels.com/)
 
 ## YouTube
 
