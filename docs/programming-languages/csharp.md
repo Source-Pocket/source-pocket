@@ -16,6 +16,7 @@ sidebar_label: CSharp
 
 - [Malik Masis - Medium](https://malikmasis.medium.com "Malik Masis - Medium")
 - [Advanced C# | Dotnet Core Central](https://www.youtube.com/playlist?list=PLXCqSX1D2fd8OTsj8Gb0pjuGnheyJv9gZ)
+- [Abdullah Öztürk - Medium](https://abdullahozturkk.medium.com/ "Abdullah Öztürk - Medium")
 
 ## Advanced
 
