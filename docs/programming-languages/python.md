@@ -17,7 +17,7 @@ sidebar_label: Python
 - [Tons of Algorithmic Solutions with Python](https://github.com/TheAlgorithms/Python)
 - [Python Projects with Beginners](https://beginnerpythonprojects.com)
 - [Python Programlama öğreten oyun  | checkio](https://py.checkio.org/ "Python Programlama öğreten oyun")
-- [Python Programlama notlari|notlar(https://github.com/e-k-eyupoglu/python_tutorial/tree/main/main)]
+- [Python Programlama notlari|notlar](https://github.com/e-k-eyupoglu/python_tutorial/tree/main/main)
 
 ## Intermediate
 
