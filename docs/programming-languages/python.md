@@ -18,7 +18,7 @@ sidebar_label: Python
 - [Python Projects with Beginners](https://beginnerpythonprojects.com)
 - [Python Programlama öğreten oyun  | checkio](https://py.checkio.org/ "Python Programlama öğreten oyun")
 - [CSD-1993/KursNotlari|uyqulamali notlar](https://github.com/CSD-1993/KursNotlari/blob/master/Python-App.pdf)
-- [Python Programlama notlari|notlar](https://github.com/e-k-eyupoglu/python_tutorial/tree/main/main)
+- [Python Programlama notlari | notlar](https://github.com/e-k-eyupoglu/python_tutorial/tree/main/main)
 
 ## Intermediate
 
