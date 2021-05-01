@@ -36,7 +36,7 @@ $ yarn start
   <a href="https://github.com/omerayyildiz"><img src="https://avatars.githubusercontent.com/omerayyildiz" width="80" /></a>
   <a href="https://github.com/YusufBilgin"><img src="https://avatars.githubusercontent.com/YusufBilgin" width="80" /></a>
   <a href="https://github.com/fatihlattab"><img src="https://avatars.githubusercontent.com/fatihlattab" width="80" /></a>
-	<a href="https://github.com/TheYkk"><img src="https://avatars.githubusercontent.com/TheYkk" width="80" /></a>
+  <a href="https://github.com/TheYkk"><img src="https://avatars.githubusercontent.com/TheYkk" width="80" /></a>
   <a href="https://github.com/liveans"><img src="https://avatars.githubusercontent.com/liveans" width="80" /></a>
 </p>
 
