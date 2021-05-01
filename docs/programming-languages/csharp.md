@@ -11,6 +11,7 @@ sidebar_label: CSharp
 - [C# Tutorial - Tutorials Point](https://www.tutorialspoint.com/csharp/index.htm "C# Tutorial - Tutorials Point")
 - [WPF UI Programming(C#) | AngelSix](https://www.youtube.com/watch?v=Vjldip84CXQ&list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
 - [C# Programming for Beginners](https://www.youtube.com/watch?v=STw363BHviY&list=PLrW43fNmjaQXhWOKalftye87ObZA-xNIJ)
+- [c# kitap|CSD-1993](https://github.com/CSD-1993/KursNotlari/blob/master/CSharp.pdf)
 
 ## Intermediate
 
