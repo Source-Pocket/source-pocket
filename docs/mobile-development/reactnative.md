@@ -5,7 +5,6 @@ sidebar_label: React Native
 ---
 
 ## Beginner
-guys you should know designing(UI),navigation between screens and api call in the begining
 - [getting started](https://reactnative.dev/docs/getting-started)
 - [basics of react native](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 - [turkish beginner](https://www.youtube.com/watch?v=zMHf5ccChoU&list=PLiYPP1v1hM958PlxbdnuNaplEucdiBntE)
