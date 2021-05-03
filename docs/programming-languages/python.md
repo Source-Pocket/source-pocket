@@ -26,6 +26,7 @@ sidebar_label: Python
 - [The Python Tutorial](https://docs.python.org/3/tutorial/ "The Python Tutorial")
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
 - [The Hitchhikker's Guide to Python](https://docs.python-guide.org)
+- [python_mini_projeler|ozcanyarimdunya](https://github.com/ozcanyarimdunya/python_mini_projeler)
 
 ## Advanced
 
