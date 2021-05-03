@@ -24,7 +24,6 @@ working with data and basic apps
 - [create Real-Time app with agora](https://www.youtube.com/watch?v=OBW96M_fafk)
 
 ## Advanced
-animation and app clones
 - [instagram clone](https://www.youtube.com/watch?v=1hPgQWbWmEk)
 - [signal clone](https://www.youtube.com/watch?v=MJzmZ9qmdaE)
 - [animated api](https://www.youtube.com/watch?v=cGTD4yYgEHc)
