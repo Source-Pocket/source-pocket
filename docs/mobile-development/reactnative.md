@@ -4,26 +4,6 @@ title: React Native
 sidebar_label: React Native
 ---
 
-## React Native CLI vs Expo
-First of all guys if you want learn and use react native we have two options for developing apps
-[Comparing  CLI and Expo](https://www.youtube.com/watch?v=uHlAM4ICi1s)
-
-### React Native CLI 
-Classic and tiring way to using react native with emulators 
-in my opinion you should use Clı if your system resources are enough
-* you should setup android studio,java,emulators... etc
-* sometimes occur errors during development(I dont know how often that's happening because I am using expo but other says that)
-* app sizes are small(when converting apk,ipa)
-
-### Expo
-[Expo](https://docs.expo.io/) is a helper for using your phones as an emulator over the wi-fi via [expo go](https://play.google.com/store/apps/details?id=host.exp.exponent) app
-* easy to create new apps(I mean create new projects and start working is easy but during the development when you want to add some packages for react-native it's cant working some times)
-* but huge app size(when you converted only blank project the app size will be about 50mb)
-* build to apk take a long time because queue(a blank project is converted at least half an hour it can depends on to your pc power)
-
-
-
-
 ## Beginner
 guys you should know designing(UI),navigation between screens and api call in the begining
 - [getting started](https://reactnative.dev/docs/getting-started)
@@ -50,4 +30,3 @@ animation and app clones
 - [signal clone](https://www.youtube.com/watch?v=MJzmZ9qmdaE)
 - [animated api](https://www.youtube.com/watch?v=cGTD4yYgEHc)
 - [2D Transformations](https://www.youtube.com/watch?v=YUcLbo_w_Ts)
-
