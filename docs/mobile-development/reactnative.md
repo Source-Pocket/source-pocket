@@ -14,7 +14,6 @@ sidebar_label: React Native
 - [react native api calls](https://www.youtube.com/watch?v=u1JQwaIds7A)
 
 ## Intermediate
-working with data and basic apps
 - [stop watch app](https://github.com/kaankarakoc42/react-native-stop-watch-app)
 - [todo app](https://www.youtube.com/watch?v=0kL6nhutjQ8)
 - [basic chat app](https://www.youtube.com/watch?v=eR1vP-W1emI)
