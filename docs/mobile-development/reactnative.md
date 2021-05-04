@@ -6,7 +6,7 @@ sidebar_label: React Native
 
 ## Beginner
 - [React Native CLI vs Expo](https://www.youtube.com/watch?v=uHlAM4ICi1s)
-- [getting started](https://reactnative.dev/docs/getting-started)
+- [React Native Docs - Getting Started](https://reactnative.dev/docs/getting-started)
 - [React Native Tutorial for Beginners - Build a React Native App [2020]](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 - [React Native Dersleri | Kursun tanıtımı](https://www.youtube.com/watch?v=zMHf5ccChoU&list=PLiYPP1v1hM958PlxbdnuNaplEucdiBntE)
 - [React Native - UI Hizalama (UI Layouting) ve Flexbox](https://www.youtube.com/watch?v=c-0K2LwdvGw)
