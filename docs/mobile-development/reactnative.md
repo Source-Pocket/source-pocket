@@ -15,7 +15,6 @@ sidebar_label: React Native
 - [React Native Tutorial - How To Get Data From An API With React Native](https://www.youtube.com/watch?v=u1JQwaIds7A)
 
 ## Intermediate
-- [stop watch app](https://github.com/kaankarakoc42/react-native-stop-watch-app)
 - [👉 Build your first React Native app - Todo List Tutorial Part 1](https://www.youtube.com/watch?v=0kL6nhutjQ8)
 - [Build a React Native Chat App with Firebase in 20 MINUTES!](https://www.youtube.com/watch?v=eR1vP-W1emI)
 - [React Native Firebase | Install Firebase React Native Tutorial](https://www.youtube.com/watch?v=LYi1gwPWDto)
