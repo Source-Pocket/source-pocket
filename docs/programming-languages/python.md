@@ -17,6 +17,8 @@ sidebar_label: Python
 - [Tons of Algorithmic Solutions with Python](https://github.com/TheAlgorithms/Python)
 - [Python Projects with Beginners](https://beginnerpythonprojects.com)
 - [Python Programlama öğreten oyun  | checkio](https://py.checkio.org/ "Python Programlama öğreten oyun")
+- [CSD-1993 / Kurs Notlari | Uygulamalı Notlar](https://github.com/CSD-1993/KursNotlari/blob/master/Python-App.pdf)
+- [Python Programlama Notları](https://github.com/e-k-eyupoglu/python_tutorial/tree/main/main)
 
 ## Intermediate
 
@@ -24,6 +26,7 @@ sidebar_label: Python
 - [The Python Tutorial](https://docs.python.org/3/tutorial/ "The Python Tutorial")
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
 - [The Hitchhikker's Guide to Python](https://docs.python-guide.org)
+- [python_mini_projeler|ozcanyarimdunya](https://github.com/ozcanyarimdunya/python_mini_projeler)
 
 ## Advanced
 
