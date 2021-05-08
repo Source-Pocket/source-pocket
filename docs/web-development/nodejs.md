@@ -18,5 +18,6 @@ sidebar_label: NodeJS
 - [Rithm School Intermediate Node and Express.js](https://www.rithmschool.com/courses/intermediate-node-express)
 - [Server-Side GraphQL in Node.js](https://frontendmasters.com/courses/server-graphql-nodejs/)
 - [NodeJS/ExpressJS Restful API Geliştirme | Ahmet Buğra Çakıcı](https://www.youtube.com/playlist?list=PLHnI4uXxaT1akM4UqP68GtlDzDYY1WeHW)
+- [Nestjs Crash Course | Traversy Media](https://www.youtube.com/watch?v=wqhNoDE6pb4)
 
 ## Advanced
