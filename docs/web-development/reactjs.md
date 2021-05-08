@@ -10,6 +10,7 @@ sidebar_label: ReactJS
 - [React için bilinmesi gereken JavaScript | by ismail simsek | Medium](https://medium.com/@ismailsimsek/react-i%C3%A7in-bilinmesi-gereken-javascript-14a6ef62bd72)
 - [React Nedir ?. ReactJS ile Web ve Mobil Uygulamaları… | by Serkan Erip](https://medium.com/@serkanerip/react-nedir-3071b543df5b)
 - [orcuntuna/react-turkce-kaynak: React.js öğrenmek için kullanabileceğiniz ücretsiz Türkçe kaynak.](https://github.com/orcuntuna/react-turkce-kaynak)
+- [React Dersleri | Yazılım Bilimi](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
 
 ## Intermediate
 
