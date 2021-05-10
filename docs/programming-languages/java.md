@@ -14,6 +14,8 @@ sidebar_label: Java
 - [🎥 Java, Programlamaya Giriş | Sadi Evren Şeker 🎥](https://youtu.be/Xgj15AMkcvA "Java, Programlamaya Giriş")
 - [🎥 Java in 9 hours | freeCodeCamp 🎥](https://youtu.be/grEKMHGYyns "Java in 9 hours | freeCodeCamp ")
 - [🎥 Java full course ☕ | Bro Code 🎥](https://youtu.be/xk4_1vDrzzo "Java full course ☕ | Bro Code")
+- [Java Programlama | Yazılım Bilimi](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I)
+- [Java ile 2D Oyun Geliştirme | Yazılım Bilimi](https://www.youtube.com/watch?v=-tLJr7fAads&list=PLIHume2cwmHcGWl_h31xBh1zSlqmxfFRQ)
 
 ## Intermediate
 
