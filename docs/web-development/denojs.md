@@ -17,5 +17,8 @@ sidebar_label: DenoJS
 - [Build a GraphQL server in Deno using Oak](https://youtu.be/Rc_HhL55JZM)
 - [Deploy your first Deno Web App to Heroku](https://youtu.be/yXH8VFLh2yA)
 - [Real Time Chat System With Deno](https://youtu.be/haOrVOUnDlw)
+- [Deno Websockets Tutorial | The Net Ninja](https://www.youtube.com/watch?v=CLLtnaOGIqo&list=PL4cUxeGkcC9gie1HrzOlzGZdEHLKhwNJE)
+- [Deno Jump-Start Tutorial | The Net Ninja](https://www.youtube.com/watch?v=2iLeRzHvc10&list=PL4cUxeGkcC9gnaJdxuGvEGYQ9iHb8mxsh)
+
 
 ## Advanced
