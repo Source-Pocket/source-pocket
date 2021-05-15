@@ -11,6 +11,9 @@ sidebar_label: ReactJS
 - [React Nedir ?. ReactJS ile Web ve Mobil Uygulamaları… | by Serkan Erip](https://medium.com/@serkanerip/react-nedir-3071b543df5b)
 - [orcuntuna/react-turkce-kaynak: React.js öğrenmek için kullanabileceğiniz ücretsiz Türkçe kaynak.](https://github.com/orcuntuna/react-turkce-kaynak)
 - [React Dersleri | Yazılım Bilimi](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
+- [React Tutorials | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
+- [React Context & Hooks Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
+- [Full React Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 ## Intermediate
 
@@ -26,6 +29,8 @@ sidebar_label: ReactJS
 - [Theming React Components with CSS Variables - Bits and Pieces](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
 - [React Training: React: "mount" vs "render"?](https://reacttraining.com/blog/mount-vs-render)
 - [React Türkçe Dokuman](https://omergulcicek.github.io/react/)
+- [Complete React Tutorial (With Redux) | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+- [React, Redux & Firebase App Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
 
 ## Advanced
 
