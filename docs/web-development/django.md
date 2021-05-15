@@ -16,6 +16,7 @@ sidebar_label: Django
 - [🎥 Python - Django Eğitimleri | Bilgisayar Kavramları 🎥](https://youtu.be/l1EQ2GfxmUg "Python - Django Eğitimleri | Bilgisayar Kavramları")
 - [🎥 Django Dersleri | Barış Aslan 🎥](https://youtu.be/uwVmWS1yJ1k "Django Dersleri | Barış Aslan")
 - [🎥 Python Django Web Framework - Full Course for Beginners | freeCodeCamp 🎥](https://youtu.be/F5mRW0jo-U4 "Python Django Web Framework - Full Course for Beginners | freeCodeCamp")
+- [Django Tutorial (Create a Blog) | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
 
 ## Intermediate
 - [Real Python](https://realpython.com/tutorials/django/ "Real Python")
