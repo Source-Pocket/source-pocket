@@ -14,6 +14,7 @@ sidebar_label: Git
 - [Learn Git in Y minutes](https://learnxinyminutes.com/docs/tr-tr/git-tr/ "Learn Git in Y minutes")
 - [Git Tutorial for Beginners | Programming with Mosh](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh "Git Tutorial for Beginners: Learn Git in 1 Hour")
 - [Learn the Basics of Git | freeCodeCamp](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/ "Learn the Basics of Git in Under 10 Minutes")
+- [Git & GitHub Tutorial for Beginners | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 ## Intermediate
 
