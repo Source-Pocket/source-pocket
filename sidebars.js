@@ -52,7 +52,8 @@ module.exports = {
       "development-tools/git",
       "development-tools/visualstudio",
       "development-tools/visual-studio-code",
-      "development-tools/vim"
+      "development-tools/vim",
+      "development-tools/kubernetes"
     ],
     "🤔 Operating Systems Pocket": [
       "operating-systems/macos",
