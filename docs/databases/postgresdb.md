@@ -8,6 +8,6 @@ sidebar_label: PostgresDB
 
 ## Intermediate
 
-- [PosgresSQL Course | AmigosCode](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
+- [PostgresSQL Course | AmigosCode](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
 
 ## Advanced
