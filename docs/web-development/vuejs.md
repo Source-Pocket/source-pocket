@@ -9,6 +9,10 @@ sidebar_label: VueJS
 - [Vue.js Guide](https://vuejs.org/v2/guide/ "Vue.js Guide")
 - [🎥 Vue JS Crash Course 2021 | Traversy Media 🎥](https://youtu.be/qZXt1Aom3Cs "Vue JS Crash Course 2021")
 - [Getting Started with Vue - An Overview and Walkthrough Tutorial – Tania Rascia](https://www.taniarascia.com/getting-started-with-vue)
+- [Vue 3 Animations & Transitions Tutorial | The Net Ninja](https://www.youtube.com/watch?v=RIApQjn9fvw&list=PL4cUxeGkcC9ghm7-iTfS9n468Kp7l9Ipu)
+- [Vue.js 3 Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+- [Vuex Tutorial | The Net Ninja](https://www.youtube.com/watch?v=BGAu__J4xoc&list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2)
+- [Vue JS 2 Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
 ## Intermediate
 

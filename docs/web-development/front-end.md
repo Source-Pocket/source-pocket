@@ -35,6 +35,8 @@ sidebar_label: Front-End
 - [Code Source](https://codesource.io/ "CodeSource") - HTML, CSS, JavaScript, JavaScript Frameworks, General Web Development
 - [Free Code Camp](https://www.freecodecamp.org/ "freeCodeCamp") - HTML, CSS, JavaScript
 - [CodePen](https://codepen.io/ "CodePen") - HTML, CSS, JavaScript, Useful Site
+- [Albert Walicki](https://www.albertwalicki.com/blog) - HTML, CSS
+- [Marksheet.io](https://marksheet.io/) - HTML, CSS
 
 ## Youtube
 

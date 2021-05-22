@@ -130,7 +130,7 @@ module.exports = {
       apiKey: process.env.API_KEY,
       indexName: "sourcepocket",
       placeholder: "search in Source Pocket"
-    },
+    }, 
   },
   presets: [
     [

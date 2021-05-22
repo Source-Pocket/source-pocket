@@ -6,6 +6,14 @@ sidebar_label: Illustrations
 
 ## Beginner
 
+- [Blob Maker](https://www.blobmaker.app)
+- [Squircley](https://www.squircley.app/)
+- [Softr SVG Shape Generator](https://www.softr.io/tools/svg-shape-generator)
+- [Blobs](https://blobs.app/)
+- [Chart Generator](https://chartgen.frederickallen.co/)
+- [Haikei](https://app.haikei.app/)
+- [Get Waves](https://getwaves.io/)
+
 ## Intermediate
 
 - [Undraw](https://undraw.co)

@@ -19,5 +19,7 @@ sidebar_label: NodeJS
 - [Server-Side GraphQL in Node.js](https://frontendmasters.com/courses/server-graphql-nodejs/)
 - [NodeJS/ExpressJS Restful API Geliştirme | Ahmet Buğra Çakıcı](https://www.youtube.com/playlist?list=PLHnI4uXxaT1akM4UqP68GtlDzDYY1WeHW)
 - [Nestjs Crash Course | Traversy Media](https://www.youtube.com/watch?v=wqhNoDE6pb4)
+- [Nodejs Crash Course Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+- [Nodejs Auth Tutorial (JWT) | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
 
 ## Advanced
