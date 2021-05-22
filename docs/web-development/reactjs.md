@@ -14,6 +14,7 @@ sidebar_label: ReactJS
 - [React Tutorials | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
 - [React Context & Hooks Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 - [Full React Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+- [Learn React For Beginners in 2021 | Anthony Sistilli](https://www.youtube.com/playlist?list=PLQg6GaokU5CyvExiaMgXP_BS5WWNBfZJN)
 
 ## Intermediate
 
