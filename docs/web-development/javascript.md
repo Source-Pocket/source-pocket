@@ -24,6 +24,7 @@ sidebar_label: JavaScript
 - [Front End Interview Handbook | Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Ön Yüz Yazılımcısı - Front-end Developer - Mülakat Soruları ★ Front-end Job](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/turkish?amp%3Butm_medium=email&amp%3Butm_source=Revue+newsletter#general-questions)
 - [fatihhayri/es6-turkce-kaynaklar: ES6 Türkçe kaynak listesi](https://github.com/fatihhayri/es6-turkce-kaynaklar)
+- [Javascript Full Course for Beginners to Advanced | AmigosCode](https://www.youtube.com/watch?v=dOnAC2Rr-6A)
 
 ## Intermediate
 
