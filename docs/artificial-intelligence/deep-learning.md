@@ -10,6 +10,8 @@ sidebar_label: Deep Learning
 - [Applied Deep Learning With Pytorch - Full Course](https://www.youtube.com/watch?v=CNuI8OWsppg)
 - [Deep Learning Book - Goodfellow&Bengio&Courville](https://www.deeplearningbook.org)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Deep Learning Full Course | Simplilearn](https://www.youtube.com/watch?v=ve-Tj7kUemg)
+- [TensorFlow Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=wMJQ04-AwNo)
 
 ## Intermediate
 
