@@ -45,6 +45,10 @@ sidebar_label: Front-End
 - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials") - HTML, CSS, JavaScript
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb "TraversyMedia") - Web Development, Programming
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q "Dev Ed") - HTML, CSS, JavaScript, JavaScript Frameworks
+- [Bedimcode](https://www.youtube.com/c/Bedimcode "Bedimcode") - HTML, CSS, Javascript
+- [ElegantCoder](https://www.youtube.com/c/ElegantCoder "Elegant Coder") - HTML, CSS, Javascript
+- [Animation Coding](https://www.youtube.com/c/AnimationCoding "Animation Coding") - HTML, CSS, Javascript
+- [Code Resource](https://www.youtube.com/c/CodeResource "Code Resource") - HTML, CSS, Javascript
 
 ## Newsletter
 
