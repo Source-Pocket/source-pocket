@@ -12,6 +12,7 @@ sidebar_label: C++
 - [Cherno C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [Definitive C++ Book List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [C++ Dersleri | Yazılım Bilimi](https://www.youtube.com/playlist?list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq)
+- [C++ Crash Course | Bro Code](https://www.youtube.com/watch?v=uhFpPlMsLzY)
 
 ## Intermediate
 
