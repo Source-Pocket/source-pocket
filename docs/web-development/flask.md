@@ -8,6 +8,7 @@ sidebar_label: Flask
 
 - [🎥 Flask Mini Seri | Yazılım Bilimi 🎥](https://youtu.be/pNqtDpcPJm0 "Flask Mini Seri")
 - [🎥 Learn Flask for Python | freeCodeCamp 🎥](https://youtu.be/Z1RJmh_OqeA "Learn Flask for Python")
+- [Python Flask Tutorial | ProgrammingKnowledge](https://www.youtube.com/watch?v=Kja_28SNIow&list=PLS1QulWo1RIZ6OujqIAXmLR3xsDn_ENHI)
 
 ## Intermediate
 
@@ -17,6 +18,7 @@ sidebar_label: Flask
 - [Explore Flask](https://exploreflask.com/en/latest/ "Explore Flask")
 - [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications "How To Structure Large Flask Applications")
 - [Flask Tutorial | Full Stack Python](https://www.fullstackpython.com/flask.html "Flask Tutorial | Full Stack Python")
+- [Restful API With Flask | ProgrammingKnowledge](https://www.youtube.com/watch?v=kENidSltTuA&list=PLS1QulWo1RIYbSv5_R2I_QbAcvbyqBCun)
 
 ## Advanced
 
