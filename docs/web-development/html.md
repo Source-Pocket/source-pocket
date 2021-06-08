@@ -16,7 +16,9 @@ sidebar_label: HTML
 - [🎥 Web Odası HTML & CSS Eğitim Seti 🎥](https://www.youtube.com/watch?v=nLCveeY8CAE&list=PLkAqDZGjJrkB_a1vD4ZUIrY0IPp5LdD5S " Web Odası HTML & CSS Eğitim Seti")
 - [🎥 HTML Giriş | Sadi Evren Şeker 🎥](https://youtu.be/uhT5EOvjLNA "HTML Giriş")
 - [🎥 HTML Crash Course For Absolute Beginners | Traversy Media 🎥](https://youtu.be/UB1O30fR-EE "HTML Crash Course For Absolute Beginners | Traversy Media")
--[Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
+- [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
+- [HTML + CSS Full Course | Bro Code](https://www.youtube.com/watch?v=cyuzt1Dp8X8)
+
 ## Intermediate
 
 - [MDN Web Docs HTML](https://developer.mozilla.org/tr/docs/Web/HTML "MDN Web Docs HTML")
