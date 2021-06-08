@@ -20,6 +20,7 @@ sidebar_label: Python
 - [CSD-1993 / Kurs Notlari | Uygulamalı Notlar](https://github.com/CSD-1993/KursNotlari/blob/master/Python-App.pdf)
 - [Python Programlama Notları](https://github.com/e-k-eyupoglu/python_tutorial/tree/main/main)
 - [Python Tutorial for Beginners - Learn Python in 5 Hours | TechWorld With Nana](https://www.youtube.com/watch?v=t8pPdKYpowI)
+- [Python Full Course | Bro Code](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 
 ## Intermediate
 
