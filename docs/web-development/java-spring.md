@@ -9,6 +9,8 @@ sidebar_label: Java Spring
 - [Spring Data JPA Tutorial | AmigosCode](https://youtu.be/8SGI_XS5OPw)
 - [Spring Boot Tutorial | AmigosCode](https://youtu.be/9SGDpanrc8U)
 - [Spring Boot Tutorial for Beginners | ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIafCnQcMlGdb8Nn4eZlksCQ)
+- [Spring Boot Tutorial - Full In-depth Course | Daily Code Buffer](https://www.youtube.com/watch?v=c3gKseNAs9w)
+- [Spring Boot Primer | Tech Primers](https://www.youtube.com/playlist?list=PLTyWtrsGknYegrUmDZB6rcqMotOFZKvbn)
 
 ## Intermediate
 
@@ -21,3 +23,4 @@ sidebar_label: Java Spring
 
 - [Java Spring Boot Eğitimi | Haydi Kodlayalım](https://www.youtube.com/playlist?list=PLd0jsEi3hUAfg1-tqxFvDA9q-kpZ4q4uE)
 - [Java SpringCloud Microservice Egitimi | Haydi kodlayalım](https://www.youtube.com/playlist?list=PLd0jsEi3hUAdKnXFDDop8V9WfBzHD5WLF)
+- [Spring Microservices Primer | Tech Primers](https://www.youtube.com/playlist?list=PLTyWtrsGknYdZlO7LAZFEElWkEk59Y2ak)
