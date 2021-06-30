@@ -3,9 +3,9 @@
 
 *       @damla
 
-CONTRIBUTING.md    @damla @TheYkk
-CODE_OF_CONDUCT.md   @damla @TheYkk
-.github/   @damla @TheYkk
+CONTRIBUTING.md    @damla
+CODE_OF_CONDUCT.md   @damla
+.github/   @damla
 
 # The `docs/*` pattern will match files like
 # `docs/getting-started.md` but not further nested files like

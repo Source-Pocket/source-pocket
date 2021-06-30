@@ -20,6 +20,7 @@ sidebar_label: Python
 - [CSD-1993 / Kurs Notlari | Uygulamalı Notlar](https://github.com/CSD-1993/KursNotlari/blob/master/Python-App.pdf)
 - [Python Programlama Notları](https://github.com/e-k-eyupoglu/python_tutorial/tree/main/main)
 - [Python Tutorial for Beginners - Learn Python in 5 Hours | TechWorld With Nana](https://www.youtube.com/watch?v=t8pPdKYpowI)
+- [Python Full Course | Bro Code](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 
 ## Intermediate
 
@@ -28,6 +29,9 @@ sidebar_label: Python
 - [RealPython Tutorials](https://realpython.com/ "RealPython Tutorials")
 - [The Hitchhikker's Guide to Python](https://docs.python-guide.org)
 - [python_mini_projeler|ozcanyarimdunya](https://github.com/ozcanyarimdunya/python_mini_projeler)
+- [Pygame - Making Games with Python | sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
+- [Intermediate Python Tutorials | sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTF3Zfyzc_yD-Mq9iTp4G)
+- [Python Tutorial Videos | Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKoW1o-A-VEmkoGKSC26i_I)
 
 ## Advanced
 
@@ -37,3 +41,4 @@ sidebar_label: Python
 - [🎥 Algorithmic Trading Using Python | freeCodeCamp 🎥](https://youtu.be/xfzGZB4HhEE "Algorithmic Trading Using Python | freeCodeCamp")
 - [🎥 Python Pandas Tutorial | Corey Schafer 🎥](https://youtu.be/ZyhVh-qRZPA "Python Pandas Tutorial")
 - [🎥 Matplotlib Tutorial | Corey Schafer 🎥](https://youtu.be/UO98lJQ3QGI "Matplotlib Tutorial")
+- [Python Tutorials | Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)

@@ -12,6 +12,7 @@ sidebar_label: CSharp
 - [WPF UI Programming(C#) | AngelSix](https://www.youtube.com/watch?v=Vjldip84CXQ&list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
 - [C# Programming for Beginners](https://www.youtube.com/watch?v=STw363BHviY&list=PLrW43fNmjaQXhWOKalftye87ObZA-xNIJ)
 - [c# kitap|CSD-1993](https://github.com/CSD-1993/KursNotlari/blob/master/CSharp.pdf)
+- [C# Full Course | Bro Code](https://www.youtube.com/watch?v=7uafjsHqf4c)
 
 ## Intermediate
 
