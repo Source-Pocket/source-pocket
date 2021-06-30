@@ -16,6 +16,11 @@ sidebar_label: General Design
 - [Manifold](https://manifold.press)
 - [GMK](http://gmk.org.tr/publications)
 - [Pexels](https://www.pexels.com/)
+- [Stock Snap](https://stocksnap.io/)
+- [Burst](https://burst.shopify.com/)
+- [Pixabay](https://pixabay.com/tr/)
+- [FoodiesFeed](https://www.foodiesfeed.com/)
+- [Gratisography](https://gratisography.com/)
 
 ## YouTube
 

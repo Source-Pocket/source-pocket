@@ -20,6 +20,8 @@ sidebar_label: Illustrations
 - [Humaaans](https://www.humaaans.com/)
 - [Icons8](https://icons8.com/illustrations)
 - [Scale](https://2.flexiple.com/scale/all-illustrations)
+- [DrawKit](https://www.drawkit.io)
+- [IRA Design](https://iradesign.io/)
 
 ## Advanced
 
