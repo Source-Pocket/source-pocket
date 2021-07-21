@@ -18,6 +18,8 @@ sidebar_label: Assembly
 - [Programming ARM Assembly in Raspberry Pi Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU)
 - [RISC-V Cheatsheet by jameslzhu in GitHub](https://github.com/jameslzhu/riscv-card/blob/master/riscv-card.pdf)
 - [Emu8086 ile Assembly Programlama](https://www.youtube.com/playlist?list=PL2gZB_AT1f5ahifiAt1uMwHgUDu1vgQJ_)
+- [x86 Assembly Language Programming From Ground Up™](https://www.udemy.com/course/x86-assembly-programming-from-ground-uptm/)
+- [C ve Sistem Programcıları Derneği 80x86 Assembly](https://github.com/CSD-1993/KursNotlari/blob/master/80X86-Assembly.pdf)
 
 ## Intermediate
 
