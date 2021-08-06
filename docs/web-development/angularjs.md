@@ -13,5 +13,6 @@ sidebar_label: AngularJS / Angular
 ## Intermediate
 
 - [Hızlandırılmış Angular Dersleri](https://www.youtube.com/playlist?list=PLSM07tMt8osNHLM_yfUnWafZ61m4FIbw1)
+- [AngularJS Tutorial | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt)
 
 ## Advanced
