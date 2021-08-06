@@ -10,6 +10,7 @@ sidebar_label: MongoDB
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Tutorial For Beginners | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
 - [MongoDB Tutorial for Beginners | ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP)
+- [MongoDB Tutorial | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQk5r6iN4Q7h-xonV3F2HwT3)
 
 ## Intermediate
 
