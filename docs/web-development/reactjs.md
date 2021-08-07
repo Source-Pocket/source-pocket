@@ -32,6 +32,7 @@ sidebar_label: ReactJS
 - [React Türkçe Dokuman](https://omergulcicek.github.io/react/)
 - [Complete React Tutorial (With Redux) | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [React, Redux & Firebase App Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
+- [Ionic 5 + Firebase + React | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQkxcATbHyMA6wfEinKL6jPD)
 
 ## Advanced
 
@@ -41,3 +42,4 @@ sidebar_label: ReactJS
 - [Making Sense of React Hooks. This week, Sophie Alpert and I… | by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [Micro-frontend architecture and React with Web Components](https://medium.com/trendyol-tech/micro-frontend-architecture-and-react-with-web-components-c27301c68240)
 - [Creating a React App… From Scratch. - Noteworthy - The Journal Blog](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
+- [Next.js Tutorial | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmpzsVeR7-KnX2li19KZhxE)
