@@ -16,3 +16,5 @@ sidebar_label: AngularJS / Angular
 - [AngularJS Tutorial | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt)
 
 ## Advanced
+
+- [Ionic 4 + Firebase + Angular | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa)
