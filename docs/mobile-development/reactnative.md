@@ -14,6 +14,7 @@ sidebar_label: React Native
 - [Getting Started with React Navigation v5 - Stack, Tabs, Drawer, Authentication](https://www.youtube.com/watch?v=nQVCkqvU1uE)
 - [React Native Tutorial - How To Get Data From An API With React Native](https://www.youtube.com/watch?v=u1JQwaIds7A)
 - [React Native Tutorial for Beginners | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+- [React Native Animation Tutorials | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo)
 
 ## Intermediate
 - [👉 Build your first React Native app - Todo List Tutorial Part 1](https://www.youtube.com/watch?v=0kL6nhutjQ8)

@@ -10,6 +10,7 @@ sidebar_label: Docker
 - [freeCodeCamp - Docker Tutorial for Beginners 🎥](https://youtu.be/fqMOX6JJhGo)
 - [TechWorld with Nana - Docker Tutorial for Beginners 🎥](https://www.youtube.com/watch?v=3c-iBn73dDE "Docker Tutorial for Beginners")
 - [Docker Tutorial for Beginners | ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbLUTUpy-nEHwMJAjcfVXqP)
+- [Docker Tutorial | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQlzv9_z1eZmZY8dzMlQFbaH)
 
 ## Intermediate
 
