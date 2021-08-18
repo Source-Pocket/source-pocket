@@ -21,7 +21,3 @@ sidebar_label: Statistical Learning
 - [DataSchool](https://www.dataschool.io/)
 - [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/)
 - [Hackr.io - Data Science](https://hackr.io/data-science)
-
-## Books
-
-## Codes
