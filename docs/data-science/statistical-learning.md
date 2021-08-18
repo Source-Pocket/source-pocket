@@ -5,6 +5,7 @@ sidebar_label: Statistical Learning
 ---
 
 ## Beginner
+
 - [Beginner Kaggle Data Science Project Walk-Through (Titanic)](https://www.youtube.com/watch?v=I3FBJdiExcg)
 - [Python for Data Science | Beginner Friendly Full Course in 5 Hours](https://www.youtube.com/watch?v=yGN28LY5VuA)
 
