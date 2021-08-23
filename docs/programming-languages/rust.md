@@ -10,6 +10,7 @@ sidebar_label: Rust
 - [Rustlings](https://github.com/rust-lang/rustlings/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 - [Learning Rust](https://learning-rust.github.io/)
+- [Rust Öğrenmek](https://github.com/RustDili/Rust-Ogrenmek)
 - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 - [The Rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
 - [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
