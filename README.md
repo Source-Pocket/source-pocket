@@ -35,7 +35,6 @@ $ yarn start
   <a href="https://github.com/damla"><img src="https://avatars.githubusercontent.com/damla" width="80" /></a>
   <a href="https://github.com/omerayyildiz"><img src="https://avatars.githubusercontent.com/omerayyildiz" width="80" /></a>
   <a href="https://github.com/YusufBilgin"><img src="https://avatars.githubusercontent.com/YusufBilgin" width="80" /></a>
-  <a href="https://github.com/fatihlattab"><img src="https://avatars.githubusercontent.com/fatihlattab" width="80" /></a>
 </p>
 
 # License
