@@ -9,6 +9,7 @@ sidebar_label: Ruby
 - [1 Videoda Ruby](https://youtu.be/p4Kq30td9VA)
 - [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org)
 - [Ruby Tutorial For Beginners | ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbNBXZAeVbkkHEj9zsEbXQK)
+- [Ruby Türkçe Tutorial](https://github.com/bahadiraraz/ruby-tutorial)
 
 ## Intermediate
 
