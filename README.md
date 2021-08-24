@@ -18,9 +18,11 @@ Project is created with:
 
 # Setup
 
-To run this project, install it locally using yarn:
+In order run this project you need to have an [Algolia API Key](https://www.algolia.com/doc/guides/security/api-keys/).
+Then, you can run it with the following commands.
 
 ```bash
+$ export API_KEY={YOUR_ALGOLIA_API_KEY}
 $ yarn
 $ yarn start
 ```

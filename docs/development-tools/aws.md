@@ -10,4 +10,7 @@ sidebar_label: AWS
 
 ## Intermediate
 
+- [Ultimate AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01)
+- [AWS Certified Developer Associate Exam Training 2021](https://www.udemy.com/course/aws-certified-developer-associate-exam-training)
+
 ## Advanced
