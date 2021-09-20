@@ -10,6 +10,7 @@ sidebar_label: ReactJS
 - [React için bilinmesi gereken JavaScript | by ismail simsek | Medium](https://medium.com/@ismailsimsek/react-i%C3%A7in-bilinmesi-gereken-javascript-14a6ef62bd72)
 - [React Nedir ?. ReactJS ile Web ve Mobil Uygulamaları… | by Serkan Erip](https://medium.com/@serkanerip/react-nedir-3071b543df5b)
 - [orcuntuna/react-turkce-kaynak: React.js öğrenmek için kullanabileceğiniz ücretsiz Türkçe kaynak.](https://github.com/orcuntuna/react-turkce-kaynak)
+- [Framer Guide to React](https://www.framer.com/books/framer-guide-to-react/#theory)
 - [React Dersleri | Yazılım Bilimi](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
 - [React Tutorials | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
 - [React Context & Hooks Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
@@ -33,13 +34,20 @@ sidebar_label: ReactJS
 - [Complete React Tutorial (With Redux) | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [React, Redux & Firebase App Tutorial | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
 - [Ionic 5 + Firebase + React | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQkxcATbHyMA6wfEinKL6jPD)
+- [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+- [TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
 
 ## Advanced
 
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [React Architecture: The React Provider Pattern | Morten Barklund](https://mortenbarklund.com/blog/react-architecture-provider-pattern/)
 - [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
+- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+- [A Complete Guide to useEffect — Overreacted](https://overreacted.io/a-complete-guide-to-useeffect/)
+- [TkDodo's blog](https://tkdodo.eu/blog/)
 - [Making Sense of React Hooks. This week, Sophie Alpert and I… | by Dan Abramov](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [Micro-frontend architecture and React with Web Components](https://medium.com/trendyol-tech/micro-frontend-architecture-and-react-with-web-components-c27301c68240)
 - [Creating a React App… From Scratch. - Noteworthy - The Journal Blog](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
+- [Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
+- [Modern React testing — Artem Sapegin’s Blog](https://blog.sapegin.me/all/react-testing-1-best-practices/)
 - [Next.js Tutorial | codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmpzsVeR7-KnX2li19KZhxE)
