@@ -9,25 +9,17 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: "Easy to Reach",
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
     description: <>Useful sources for every language!</>,
   },
   {
     title: "Focus on What Matters",
-    imageUrl: "img/undraw_docusaurus_tree.svg",
     description: <>Find crucial sources in our Source Pocket.</>,
   },
 ];
 
 function Feature({ imageUrl, title, description }) {
-  const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx("col col--6", styles.feature)}>
-      {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
-        </div>
-      )}
       <h3 className="text--center">{title}</h3>
       <p className="text--center">{description}</p>
     </div>

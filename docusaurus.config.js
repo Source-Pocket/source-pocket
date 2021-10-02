@@ -1,12 +1,12 @@
 module.exports = {
   title: "Source Pocket",
   tagline: "Your source pocket for development",
-  url: "https://sourcepocket.sdtr.dev",
+  url: "https://sourcepocket.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "sdtrdev",
+  organizationName: "Source-pocket",
   projectName: "source-pocket",
   themeConfig: {
     navbar: {
@@ -22,7 +22,7 @@ module.exports = {
           position: "left",
         },
         {
-          href: "https://github.com/sdtrdev/source-pocket",
+          href: "https://github.com/Source-pocket/source-pocket",
           label: "GitHub",
           position: "right",
         },
@@ -100,10 +100,6 @@ module.exports = {
               href: "https://medium.com/software-development-turkey",
             },
             {
-              label: "Discord",
-              href: "https://discord.gg/J3PTmeFj6s",
-            },
-            {
               label: "Twitter",
               href: "https://twitter.com/sdtrdev",
             },
@@ -114,12 +110,7 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/sdtrdev/source-pocket",
-            },
-            {
-              label:
-                "Made with 💜 by the members of Software Development Turkey",
-              href: "https://discord.gg/J3PTmeFj6s",
+              href: "https://github.com/source-pocket/source-pocket",
             },
           ],
         },
@@ -139,7 +130,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/sdtrdev/source-pocket/blob/dev/",
+          editUrl: "https://github.com/Source-Pocket/source-pocket/blob/dev/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
