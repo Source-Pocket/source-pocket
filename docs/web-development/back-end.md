@@ -14,10 +14,10 @@ sidebar_label: Back-End
 
 - [Ali Kutluozen](https://youtu.be/4ESSzhNyutI)
 
-- [Umut Umutluoğlu](https://youtu.be/7SpLnbTqO9I)
+- [Back-End Developer Hangi Konulara Hakim Olmalı? | Umut Umutluoğlu](https://youtu.be/7SpLnbTqO9I)
 
-- [Sadık Turan](https://youtu.be/8xz_3kme1HU)
+- [Web Programlama Hangi Amaçla Kullanılır? | Sadık Turan](https://youtu.be/8xz_3kme1HU)
 
-- [Clever Programmer(EN)](https://youtu.be/-bjJetWnNZg)
+- [Back-End Developer Guide | Clever Programmer(EN)](https://youtu.be/-bjJetWnNZg)
 
 ## Newsletter
