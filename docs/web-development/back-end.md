@@ -8,7 +8,7 @@ sidebar_label: Back-End
 
 - [Mikroservis Mimari | Suat Köse](https://suadev.gitbook.io/turkish-microservices-book/)
 
-- [FreeCodeCamp(EN)](https://www.google.com/amp/s/www.freecodecamp.org/news/learn-backend-development/amp/)
+- [FreeCodeCamp(EN)](https://www.freecodecamp.org/news/learn-backend-development/)
 
 ## Youtube
 
