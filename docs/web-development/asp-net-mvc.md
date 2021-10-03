@@ -10,7 +10,6 @@ sidebar_label: ASP.NET MVC
 - [Introduction to ASP.NET MVC Tips, Best Practices | TimCorey(EN)](https://www.youtube.com/watch?v=phyV-OQNeRM)
 - [ASP.NET Core Dersleri | Sadık Turan](https://youtube.com/playlist?list=PLXuv2PShkuHyuMzZC1u0SyWB3Aot8MHCv)
 - [ASP.NET Mvc 5 Dersleri | Sadık Turan](https://youtube.com/playlist?list=PLXuv2PShkuHyyRQmZlty28LvXEGLp7pWy)
-- [What is Asp.Net? | Simplilearn(EN)](https://youtu.be/fkdMdZmdBs4)
 
 ## Intermediate
 
