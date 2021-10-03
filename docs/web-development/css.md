@@ -19,4 +19,3 @@ sidebar_label: CSS
 - [CSS Gradient](https://cssgradient.io/ "CSSGradient")
 
 ## Advanced
-- [CSS EFFECT ETC Advanced Level | Online Tutorials](https://youtube.com/c/OnlineTutorials4Designers) 
