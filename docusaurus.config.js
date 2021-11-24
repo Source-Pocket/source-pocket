@@ -93,19 +93,6 @@ module.exports = {
           ],
         },
         {
-          title: "Community",
-          items: [
-            {
-              label: "Medium",
-              href: "https://medium.com/software-development-turkey",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/sdtrdev",
-            },
-          ],
-        },
-        {
           title: "More",
           items: [
             {
