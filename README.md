@@ -1,7 +1,5 @@
 # What is Source Pocket?
 
-![Source Pocket Readme Banner](static/gif/source-pocket-banner.gif)
-
 Source Pocket has been created to help developer community to easily find most useful resources according to their level. Everyone is free to share their favorite resources, simply by adding their links according to our [Contribution Guide](https://sourcepocket.netlify.app/docs/ "Contribution Guide").
 
 [🖊 Semantic Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) are important for everyone. We would be very happy if you pay attention to this.
@@ -35,7 +33,7 @@ $ yarn start
 
 <p align="left">
   <a href="https://github.com/damla"><img src="https://avatars.githubusercontent.com/damla" width="80" /></a>
-  <a href="https://github.com/omerayyildiz"><img src="https://avatars.githubusercontent.com/omerayyildiz" width="80" /></a>
+
   <a href="https://github.com/YusufBilgin"><img src="https://avatars.githubusercontent.com/YusufBilgin" width="80" /></a>
 </p>
 

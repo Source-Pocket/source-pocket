@@ -10,8 +10,8 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background-image: url("/gif/source-pocket-banner.gif");
-  background-position:center;
+  background-color: #009966;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -41,9 +41,9 @@
 }
 
 .button {
-  color: white !important;
-  background-color: #25c2a0;
-  border: #25c2a0;
+  color: black !important;
+  background-color: #ffcc28;
+  border: #ffcc28;
 }
 
 .button:hover {

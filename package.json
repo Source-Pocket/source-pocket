@@ -1,6 +1,6 @@
 {
   "name": "source-pocket",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -15,6 +15,7 @@
     "@docusaurus/core": "2.0.0-alpha.69",
     "@docusaurus/preset-classic": "2.0.0-alpha.69",
     "@mdx-js/react": "^1.6.21",
+    "algoliasearch-helper": "^3.6.2",
     "axios": "^0.21.1",
     "browserslist": "^4.16.5",
     "clsx": "^1.1.1",
