@@ -12,7 +12,7 @@ Project is created with:
 - [ReactJS](https://reactjs.org "ReactJS"): 16.8.4
 - [MDX](https://mdxjs.com "MDX"): 1.6.21
 - [clsx](https://www.npmjs.com/package/clsx "clsx"): 1.1.1
-- Passion of [software developers](https://discord.gg/J3PTmeFj6s "SDTRDEV") with some coffee and black tea 👩🏼‍💻☕️👨🏼‍💻☕️
+- Passion of software developers with some coffee and black tea 👩🏼‍💻☕️👨🏼‍💻☕️
 
 # Setup
 
@@ -25,15 +25,11 @@ $ yarn
 $ yarn start
 ```
 
-# Artworks Repository
-
-- [🧑‍🎨 sdtrdev/sp-artworks](https://github.com/sdtrdev/sp-artworks)
-
 # Code Owners
 
 <p align="left">
-  <a href="https://github.com/damla"><img src="https://avatars.githubusercontent.com/damla" width="80" /></a>
-  <a href="https://github.com/YusufBilgin"><img src="https://avatars.githubusercontent.com/YusufBilgin" width="80" /></a>
+   <a href="https://github.com/damla"><img src="https://avatars.githubusercontent.com/damla" width="80" /></a>
+   <a href="https://github.com/YusufBilgin"><img src="https://avatars.githubusercontent.com/YusufBilgin" width="80" /></a>
    <a href="https://github.com/AbdullahOztuurkk"><img src="https://avatars.githubusercontent.com/AbdullahOztuurkk" width="80" /></a>
    <a href="https://github.com/Flavianooo"><img src="https://avatars.githubusercontent.com/Flavianooo" width="80" /></a>
 </p>
