@@ -15,5 +15,6 @@ sidebar_label: PHP
 
 - [Realtime Chat Application using PHP and MySQL | CodingNepal(EN)](https://youtu.be/VnvzxGWiK54)
 - [PHP Hastane Otomasyon Sistemi | Yazılım Kafası](https://youtube.com/playlist?list=PLH9Bi1t-zzyI7kd-nIru4CurG3cM2w6jU)
+- [Simple PHP router](https://github.com/skipperbent/simple-php-router)
 
 ## Advanced

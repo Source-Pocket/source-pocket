@@ -28,8 +28,8 @@ $ yarn start
 # Code Owners
 
 <p align="left">
-   <a href="https://github.com/damla"><img src="https://avatars.githubusercontent.com/damla" width="80" /></a>
-   <a href="https://github.com/YusufBilgin"><img src="https://avatars.githubusercontent.com/YusufBilgin" width="80" /></a>
+  <a href="https://github.com/damla"><img src="https://avatars.githubusercontent.com/damla" width="80" /></a>
+  <a href="https://github.com/YusufBilgin"><img src="https://avatars.githubusercontent.com/YusufBilgin" width="80" /></a>
    <a href="https://github.com/AbdullahOztuurkk"><img src="https://avatars.githubusercontent.com/AbdullahOztuurkk" width="80" /></a>
    <a href="https://github.com/Flavianooo"><img src="https://avatars.githubusercontent.com/Flavianooo" width="80" /></a>
 </p>
