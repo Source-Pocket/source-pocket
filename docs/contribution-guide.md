@@ -6,7 +6,7 @@ slug: /
 ---
 ## Contribution Without Forking the Project
 
-1- Open `https://sourcepocket.sdtr.dev`
+1- Open `https://sourcepocket.netlify.app`
 
 2- Click on [Source Pocket](https://sourcepocket.netlify.app/docs/)
 
