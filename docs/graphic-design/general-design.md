@@ -21,6 +21,7 @@ sidebar_label: General Design
 - [Pixabay](https://pixabay.com/tr/)
 - [FoodiesFeed](https://www.foodiesfeed.com/)
 - [Gratisography](https://gratisography.com/)
+- [Pinterest](https://pinterest.com/)
 
 ## YouTube
 
